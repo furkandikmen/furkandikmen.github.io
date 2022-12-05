@@ -4,7 +4,24 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching
+## Fall 2022
+### Ling 305: Semantics
+- Role: Teaching Assistant
+- Instructor: Elena Guerzoni
+- Population: KAÇ ÖĞRENCİ
+- [Syllabus](https://github.com/furkandikmen/furkandikmen.github.io/blob/master/assets/syllabus/Ling305_Fall2022.pdf)
 
-- bunu formatlamamız lazım.
-- teaching şeysilerini madde madde yaz ve syllabuslara yönlendir.
+### Ling 000: Başka bi şey
+- Role: Teaching Assistant
+- Instructor: 
+- Population: 
+- [Syllabus](LİNK BURAYA)
+
+## Summer 2022
+### TLCP FALAN
+- Role: 
+- Population: 
+- [Syllabus](LİNK BURAYA)
+
+
+## Spring 2022
