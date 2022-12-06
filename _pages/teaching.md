@@ -4,20 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Fall 2022
-### Ling 305: [Semantics]
-- Role: Teaching Assistant 
-
-
-### Ling 203: [Syntax]
-- Role: Teaching Assistant
-
-## Summer 2022
-### TLCP 
-- Role: 
-- [Syllabus](LİNK BURAYA)
-
 ## Teaching Assistanships
+
 LING101 (Introduction to Language and Linguistics I) Spring 2022, Fall 2021, Spring 2021, Fall 2020, Fall 2019
 
 LING102 (Introduction to Language and Linguistics II) Spring 2022, Spring 2021, Spring 2019
