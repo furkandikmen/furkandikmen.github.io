@@ -14,9 +14,8 @@ permalink: /teaching/
 - [Syllabus](furkandikmen.com/master/assets/syllabus/LING203-FALL 2022.pdf )
 
 ## Summer 2022
-### TLCP FALAN
+### TLCP 
 - Role: 
-- Population: 
 - [Syllabus](LİNK BURAYA)
 
 
