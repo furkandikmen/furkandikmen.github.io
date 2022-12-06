@@ -7,14 +7,10 @@ permalink: /teaching/
 ## Fall 2022
 ### Ling 305: Semantics
 - Role: Teaching Assistant
-- Instructor: Elena Guerzoni
-- Population: KAÇ ÖĞRENCİ
 - [Syllabus](https://github.com/furkandikmen/furkandikmen.github.io/blob/master/assets/syllabus/Ling305_Fall2022.pdf)
 
-### Ling 000: Başka bi şey
+### Ling 203: 
 - Role: Teaching Assistant
-- Instructor: 
-- Population: 
 - [Syllabus](LİNK BURAYA)
 
 ## Summer 2022
