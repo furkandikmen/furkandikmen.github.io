@@ -9,9 +9,8 @@ permalink: /teaching/
 - Role: Teaching Assistant 
 
 
-### Ling 203: Syntax 
+### Ling 203: [Syntax](https://furkandikmen.com/master/assets/syllabus/LING203-FALL 2022.pdf)
 - Role: Teaching Assistant
-- [Syllabus](https://furkandikmen.com/master/assets/syllabus/LING203-FALL 2022.pdf )
 
 ## Summer 2022
 ### TLCP 
