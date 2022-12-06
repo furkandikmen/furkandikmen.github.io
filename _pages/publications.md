@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- [Dikmen F. Demirok, Ö., Öztürk, B. (2022). How can a language have double passives but lack antipassives?. _Glossa: a journal of general linguistics, 7_(1).](https://www.glossa-journal.org/article/id/6553/) 
+- Dikmen F., Demirok, Ö., Öztürk, B. (2022). [How can a language have double passives but lack antipassives?.](https://www.glossa-journal.org/article/id/6553/)Glossa: a journal of general linguistics, 7_(1).
 
 - [Dikmen F., & Demirok Ö. (2021). Modifying result states in Turkish. In _Semantics and Linguistic Theory_ (Vol. 31, pp. 042-060).](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003)
 
