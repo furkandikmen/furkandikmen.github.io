@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Teaching Assistanships
 
-LING101 (Introduction to Language and Linguistics I) Spring 2022, Fall 2021, Spring 2021, Fall 2020, Fall 2019
+LING101 (Introduction to Language and Linguistics I) [Spring 2022](https://furkandikmen.com/assets/syllabus/LING101_Spring 2022.pdf), Fall 2021, Spring 2021, Fall 2020, Fall 2019
 
 LING102 (Introduction to Language and Linguistics II) Spring 2022, Spring 2021, Spring 2019
 
