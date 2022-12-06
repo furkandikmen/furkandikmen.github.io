@@ -9,7 +9,7 @@ permalink: /teaching/
 - Role: Teaching Assistant
 - [Syllabus](https://github.com/furkandikmen/furkandikmen.github.io/blob/master/assets/syllabus/Ling305_Fall2022.pdf)
 
-### Ling 203: 
+### Ling 203: Syntax 
 - Role: Teaching Assistant
 - [Syllabus](LİNK BURAYA)
 
