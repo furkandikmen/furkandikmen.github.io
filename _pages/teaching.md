@@ -8,6 +8,7 @@ permalink: /teaching/
 ### Ling 305: Semantics
 - Role: Teaching Assistant [Syllabus](furkandikmen.com/master/assets/syllabus/Ling305_Fall2022.pdf)
 
+
 ### Ling 203: Syntax 
 - Role: Teaching Assistant
 - [Syllabus](furkandikmen.com/master/assets/syllabus/LING203-FALL 2022.pdf )
