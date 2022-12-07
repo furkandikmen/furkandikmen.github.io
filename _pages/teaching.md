@@ -16,7 +16,7 @@ LING102 (Introduction to Language and Linguistics II) Spring 2022, Spring 2021, 
 
 LING203 (Syntax) [Fall 2022](https://furkandikmen.com/assets/syllabus/LING203_FALL2022.pdf), [Fall 2019](https://furkandikmen.com//assets/syllabus/LING203_FALL2019.pdf)
 
-LING305 (Semantics) [Fall 2022](https://furkandikmen.com/assets/syllabus/Ling305_Fall2022.pdf), Fall 2021, Fall 2019
+LING305 (Semantics) [Fall 2022](https://furkandikmen.com/assets/syllabus/Ling305_Fall2022.pdf), [Fall 2021](https://furkandikmen.com/assets/syllabus/Ling305_Fall2021 Syllabus.pdf), Fall 2019
 
 LING314 (Syntax and Semantics of Modern Turkish) Spring 2020
 
