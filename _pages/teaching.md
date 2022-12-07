@@ -18,6 +18,6 @@ LING203 (Syntax) [Fall 2022](https://furkandikmen.com/assets/syllabus/LING203_FA
 
 LING305 (Semantics) [Fall 2022](https://furkandikmen.com/assets/syllabus/Ling305_Fall2022.pdf), [Fall 2021](https://furkandikmen.com/assets/syllabus/Ling305_Fall2021 Syllabus.pdf),[Fall 2022](https://furkandikmen.com/assets/syllabus/LING305Fall2020.pdf), Fall 2019
 
-LING314 (Syntax and Semantics of Modern Turkish) Spring 2020
+LING314 (Syntax and Semantics of Modern Turkish) [Spring 2020](https://furkandikmen.com/assets/syllabus/LING314_Spring2020.pdf)
 
 LING340 (Advanced Syntax) Spring 2021
