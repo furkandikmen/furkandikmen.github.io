@@ -10,7 +10,7 @@ Turkish Language and Culture Program Speaking Instructor, [Summer 2022](https://
 
 ## Teaching Assistanships @ Boğaziçi University
 
-LING101 (Introduction to Language and Linguistics I) [Spring 2022](https://furkandikmen.com/assets/syllabus/LING101_Spring 2022.pdf), [Fall 2021](https://furkandikmen.com/assets/syllabus/LING101_Fall2021.pdf), Spring 2021, Fall 2020, [Fall 2019](https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf)
+LING101 (Introduction to Language and Linguistics I) [Spring 2022](https://furkandikmen.com/assets/syllabus/LING101_Spring 2022.pdf), [Fall 2021](https://furkandikmen.com/assets/syllabus/LING101_Fall2021.pdf), [Spring 2021](https://furkandikmen.com/assets/syllabus/LING 101_Spring2021.pdf), Fall 2020, [Fall 2019](https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf)
 
 LING102 (Introduction to Language and Linguistics II) Spring 2022, Spring 2021, Spring 2019
 
