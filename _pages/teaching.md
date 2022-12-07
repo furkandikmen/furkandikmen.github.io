@@ -14,7 +14,7 @@ LING101 (Introduction to Language and Linguistics I) [Spring 2022](https://furka
 
 LING102 (Introduction to Language and Linguistics II) Spring 2022, Spring 2021, Spring 2019
 
-LING203 (Syntax) [Fall 2022](https://furkandikmen.com/assets/syllabus/LING203_FALL2022.pdf), Spring 2020
+LING203 (Syntax) [Fall 2022](https://furkandikmen.com/assets/syllabus/LING203_FALL2022.pdf), [Fall 2019](https://furkandikmen.com//assets/syllabus/LING203_FALL2019.pdf)
 
 LING305 (Semantics) [Fall 2022](https://furkandikmen.com/assets/syllabus/Ling305_Fall2022.pdf), Fall 2021, Fall 2019
 
