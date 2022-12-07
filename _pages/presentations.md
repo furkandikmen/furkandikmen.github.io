@@ -4,6 +4,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
+_Please contact me for the presentation files!_
+
 - Atlamaz Ü., & Dikmen F. (2022), Adjectival Diminutives in Turkish. presented DMTD Workshop series & WAFL16.
 
 - Dikmen F., Demirok Ö., & Öztürk, B. (2021), Compounding with a polymorphic deverbalizer in Turkish, presented at 9th Workshop on Nominalizations (JeNOM 9).
