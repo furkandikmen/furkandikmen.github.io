@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Instructorship @ Boğaziçi University
 
-Turkish Language and Culture Program Speaking Instructor, [Summer 2022](https://furkandikmen.com/assets/syllabus/S20_Speaking_Summer_2022 İzlence.pdf) 
+- Turkish Language and Culture Program Speaking Instructor, [Summer 2022](https://furkandikmen.com/assets/syllabus/S20_Speaking_Summer_2022 İzlence.pdf) 
 
 ## Teaching Assistanships @ Boğaziçi University
 
