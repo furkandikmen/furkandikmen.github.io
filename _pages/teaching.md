@@ -18,7 +18,7 @@ permalink: /teaching/
 
 - LING305 (Semantics) [Fall 2022](https://furkandikmen.com/assets/syllabus/Ling305_Fall2022.pdf), [Fall 2021](https://furkandikmen.com/assets/syllabus/Ling305_Fall2021 Syllabus.pdf),[Fall 2022](https://furkandikmen.com/assets/syllabus/LING305Fall2020.pdf), Fall 2019
 
--LING313 (Phonology and Morphology of Modern Turkish) [Fall 2020](https://furkandikmen.com/assets/syllabus/LING313_Fall2020.pdf)
+- LING313 (Phonology and Morphology of Modern Turkish) [Fall 2020](https://furkandikmen.com/assets/syllabus/LING313_Fall2020.pdf)
 
 - LING314 (Syntax and Semantics of Modern Turkish) [Spring 2020](https://furkandikmen.com/assets/syllabus/LING314_Spring2020.pdf)
 
