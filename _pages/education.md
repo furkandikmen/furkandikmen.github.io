@@ -1,3 +1,5 @@
+---
 layout: education
-title: "Education"
-permalink: /education
+title: Education
+permalink: /education/
+---
