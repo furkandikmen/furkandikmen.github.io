@@ -4,13 +4,13 @@ title: Presentations
 permalink: /presentations/
 ---
 
-- Dikmen F., Guerzoni E., & Demirok Ö. (2023), [When tense shifts expressive presuppositions: hani and monstrous semantics](https://furkandikmen.com/assets/presentations/Tu+8.pdf). to be presented in Tu+8.
+- Dikmen F., Guerzoni E., & Demirok Ö. (2023), [When tense shifts expressive presuppositions: hani and monstrous semantics](https://furkandikmen.com/assets/presentations/Tu+8.pdf), to be presented in Tu+8.
 
-- Atlamaz Ü., & Dikmen F. (2022), [Adjectival Diminutives in Turkish](https://furkandikmen.com/aassets/presentations/Adjectival_Dimunitives.pdf). presented DMTD Workshop series & WAFL16.
+- Atlamaz Ü., & Dikmen F. (2022), [Adjectival Diminutives in Turkish](https://furkandikmen.com/aassets/presentations/Adjectival_Dimunitives.pdf), presented DMTD Workshop series & WAFL16.
 
-- Dikmen F., Demirok Ö., & Öztürk, B. (2021), [Compounding with a polymorphic deverbalizer in Turkish](https://sites.google.com/view/nominalizations-jenom9/program). presented at 9th Workshop on Nominalizations (JeNOM 9).
+- Dikmen F., Demirok Ö., & Öztürk, B. (2021), [Compounding with a polymorphic deverbalizer in Turkish](https://sites.google.com/view/nominalizations-jenom9/program), presented at 9th Workshop on Nominalizations (JeNOM 9).
 
-- Dikmen F., & Demirok Ö. (2021), Modifying result states in Turkish, poster presented at Semantics and Linguistic Theory (SALT 31).
+- Dikmen F., & Demirok Ö. (2021), [Modifying result states in Turkish](https://osf.io/g8da5/), poster presented at Semantics and Linguistic Theory (SALT 31).
 
 - Canalis S., & Dikmen F. (2020), Palatalized Turkish consonants and vowel harmony, presented at the 5th workshop on Turkic and languages in contact with Turkic (Tu+5).
 
