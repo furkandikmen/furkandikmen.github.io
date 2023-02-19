@@ -8,7 +8,7 @@ permalink: /presentations/
 
 - Atlamaz Ü., & Dikmen F. (2022), [Adjectival Diminutives in Turkish](https://furkandikmen.com/aassets/presentations/Adjectival_Dimunitives.pdf). presented DMTD Workshop series & WAFL16.
 
-- Dikmen F., Demirok Ö., & Öztürk, B. (2021), Compounding with a polymorphic deverbalizer in Turkish, presented at 9th Workshop on Nominalizations (JeNOM 9).
+- Dikmen F., Demirok Ö., & Öztürk, B. (2021), [Compounding with a polymorphic deverbalizer in Turkish](https://sites.google.com/view/nominalizations-jenom9/program). presented at 9th Workshop on Nominalizations (JeNOM 9).
 
 - Dikmen F., & Demirok Ö. (2021), Modifying result states in Turkish, poster presented at Semantics and Linguistic Theory (SALT 31).
 
