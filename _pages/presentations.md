@@ -12,7 +12,7 @@ permalink: /presentations/
 
 - Dikmen F., & Demirok Ö. (2021), [Modifying result states in Turkish](https://osf.io/g8da5/), poster presented at Semantics and Linguistic Theory (SALT 31).
 
-- Canalis S., & Dikmen F. (2020), Palatalized Turkish consonants and vowel harmony, presented at the 5th workshop on Turkic and languages in contact with Turkic (Tu+5).
+- Canalis S., & Dikmen F. (2020), [Palatalized Turkish consonants and vowel harmony](https://bpb-us-w2.wpmucdn.com/sites.udel.edu/dist/1/9450/files/2019/12/tunamed.pdf), presented at the 5th workshop on Turkic and languages in contact with Turkic (Tu+5).
 
 - Dikmen F. (2019), The semantics of the associative -lAr in Turkish, poster presented in Workshop on Altaic Formal Linguistics 15 (WAFL 2019).
 
