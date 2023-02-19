@@ -4,7 +4,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-- Dikmen F., Guerzoni E., & Demirok Ö. (2023), When tense shifts expressive presuppositions: hani and monstrous semantics, to be presented in Tu+8.
+- Dikmen F., Guerzoni E., & Demirok Ö. (2023), [When tense shifts expressive presuppositions: hani and monstrous semantics](assets/presentations/Tu+8-Dikmen, Guerzoni & Demirok (1).pdf), to be presented in Tu+8.
 
 - Atlamaz Ü., & Dikmen F. (2022), Adjectival Diminutives in Turkish. presented DMTD Workshop series & WAFL16.
 
