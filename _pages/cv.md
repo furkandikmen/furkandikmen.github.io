@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-- will be available soon
+- [CV](https://furkandikmen.com/assets/CV/CV_.pdf){:target="_blank" rel="noopener noreferrer"}
