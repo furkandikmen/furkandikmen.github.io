@@ -11,17 +11,25 @@ permalink: /teaching/
 
 ## Teaching Assistanships @ Boğaziçi University
 
+<div align="center">
 
-- LING101 (Introduction to Language and Linguistics I) Spring 2023, [Spring 2022](https://furkandikmen.com/assets/syllabus/LING101_Spring 2022.pdf), [Fall 2021](https://furkandikmen.com/assets/syllabus/LING101_Fall2021.pdf), [Spring 2021](https://furkandikmen.com/assets/syllabus/LING 101_Spring2021.pdf), [Fall 2020](https://furkandikmen.com/assets/syllabus/LING101 _Fall2020.pdf), [Fall 2019](https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf)
 
-- LING102 (Introduction to Language and Linguistics II) Spring 2022, Spring 2021, Spring 2019
+|              |                |                |                |
+|--------------|----------------|----------------|----------------|
+| **2019 Spring**  | **2019 Fall**      | **2020 Spring**    | **2020 Fall**      |
+| LING102      | LING101        | LING102        | LING101        |
+|              | LING203        | LING314        | LING313        |
+|              | LING305        |                |                |
+|--------------|----------------|----------------|----------------|
+| **2021 Spring**  | **2021 Fall**      | **2022 Spring**    | **2022 Fall**      |
+| LING101      | LING101        | LING101        | LING203        |
+| LING102      | LING305        | LING102        | LING305        |
+| LING340      |                |                |                |
+|--------------|----------------|----------------|----------------|
+| **2023 Spring**  |                |                |                |
+| LING101      |                |                |                |
+| LING314      |                |                |                |
+|              |                |                |                |
 
-- LING203 (Syntax) [Fall 2022](https://furkandikmen.com/assets/syllabus/LING203_FALL2022.pdf), [Fall 2019](https://furkandikmen.com//assets/syllabus/LING203_FALL2019.pdf)
+</div>
 
-- LING305 (Semantics) [Fall 2022](https://furkandikmen.com/assets/syllabus/Ling305_Fall2022.pdf), [Fall 2021](https://furkandikmen.com/assets/syllabus/Ling305_Fall2021 Syllabus.pdf),[Fall 2022](https://furkandikmen.com/assets/syllabus/LING305Fall2020.pdf), Fall 2019
-
-- LING313 (Phonology and Morphology of Modern Turkish) [Fall 2020](https://furkandikmen.com/assets/syllabus/LING313_Fall2020.pdf)
-
-- LING314 (Syntax and Semantics of Modern Turkish) Spring 2023, [Spring 2020](https://furkandikmen.com/assets/syllabus/LING314_Spring2020.pdf)
-
-- LING340 (Advanced Syntax) Spring 2021
