@@ -11,12 +11,14 @@ permalink: /teaching/
 
 ## Teaching Assistanships @ Boğaziçi University
 
+[🧙‍♂️]: [path/to/course1.pdf](https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf){:target="_blank" rel="noopener noreferrer"}
+
 
 
 | Semester      | Courses                       |
 |---------------|-------------------------------|
 | 2019 Spring   | LING101                       |
-| 2019 Fall     | [LING101](https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf), LING203, LING305     |
+| 2019 Fall     | LING101[🧙‍♂️], LING203, LING305  |
 | 2020 Spring   | LING102, LING314              |
 | 2020 Fall     | LING101, LING313              |
 | 2021 Spring   | LING101, LING102, LING340     |
