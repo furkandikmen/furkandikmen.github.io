@@ -1,4 +1,4 @@
-![image](https://github.com/furkandikmen/furkandikmen.github.io/assets/118886522/9f4b1947-a825-4541-b05e-8cd8714b3c80)---
+---
 layout: page
 title: Teaching
 permalink: /teaching/
