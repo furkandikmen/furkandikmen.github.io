@@ -11,7 +11,6 @@ permalink: /teaching/
 
 ## Teaching Assistanships @ Boğaziçi University
 
-<div align="center">
 
 
 | Semester      | Courses                       |
@@ -27,7 +26,6 @@ permalink: /teaching/
 | 2023 Spring   | LING101, LING314              |
 
 
-</div>
 
 
 
