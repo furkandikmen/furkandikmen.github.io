@@ -15,6 +15,7 @@ permalink: /teaching/
 - 🌐🔍: Introduction to Language and Linguistics II
 - 🧩🔤: Syntax
 - 🧠📖: Semantics
+- 🔊✏️: Phonology and Morphology of Modern Turkish
 - 🇹🇷🔡: Syntax and Semantics of Modern Turkish
 - 🔍🧩: Advanced Syntax
 
