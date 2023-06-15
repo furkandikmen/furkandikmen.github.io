@@ -11,22 +11,13 @@ permalink: /teaching/
 
 ## Teaching Assistanships @ Boğaziçi University
 
-- 🗣️📚: Introduction to Language and Linguistics I
-- 🌐🔍: Introduction to Language and Linguistics II
-- 🧩🔤: Syntax
-- 🧠📖: Semantics
-- 🔊✏️: Phonology and Morphology of Modern Turkish
-- 🇹🇷🔡: Syntax and Semantics of Modern Turkish
-- 🔍🧩: Advanced Syntax
-
-
-
-| **2019 Spring** | **2019 Fall**                     | **2020 Spring** | **2020 Fall**                | **2021 Spring**    | **2021 Fall** | **2022 Spring**                | **2022 Fall**                | **2023 Spring** |
-|-----------------|-----------------------------------|-----------------|-------------------------------|-------------------------------|----------------|-------------------------------|------------------------------|-----------------|
-| LING101🗣️📚      | LING101🗣️📚                        | LING102🌐🔍      | LING101🗣️📚                    | LING101🗣️📚                    | LING101🗣️📚     | LING101🗣️📚                    | LING203🧩🔤                   | LING101🗣️📚      |
-  |                 | LING203🧩🔤                        | LING314🇹🇷🔡     | LING313🔊✏️                    | LING102🌐🔍                    | LING305🧠📖     | LING102🌐🔍                    | LING305🧠📖                   | LING314🇹🇷🔡     |
- |                 | LING305🧠📖                        |                   |                                 | LING340🔍🧩                     |                 |                                 |                                |                  |
-
+- LING101🗣️📚: Introduction to Language and Linguistics I 
+- LING102🌐🔍: Introduction to Language and Linguistics II
+- LING203🧩🔤: Syntax
+- LING305🔍📘: Semantics
+- LING313🔊✏️: Phonology and Morphology of Modern Turkish
+- LING314🧩🔡: Syntax and Semantics of Modern Turkish
+- LING340🔍🧩: Advanced Syntax
 
 
 
