@@ -13,9 +13,9 @@ permalink: /teaching/
 
 
 
-[🧙‍♂️]: https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf
-[⚡️]:  https://furkandikmen.com/assets/syllabus/LING203_FALL2019.pdf
-[🦉]: https://furkandikmen.com/assets/syllabus/LING305Fall2020.pdf
+[ə]: https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf
+[🌲]:  https://furkandikmen.com/assets/syllabus/LING203_FALL2019.pdf
+[λ]: https://furkandikmen.com/assets/syllabus/LING305Fall2020.pdf
 
 
 
@@ -23,7 +23,7 @@ permalink: /teaching/
 | Semester      | Courses                       |
 |---------------|-------------------------------|
 | 2019 Spring   | LING101                       |
-| 2019 Fall     | LING101[🧙‍♂️]<br>LING203[⚡️]<br>LING305  |
+| 2019 Fall     | LING101[ə]<br>LING203[🌲]<br>LING305[λ]  |
 | 2020 Spring   | LING102<br>LING314              |
 | 2020 Fall     | LING101<br>LING313              |
 | 2021 Spring   | LING101<br>LING102<br>LING340     |
