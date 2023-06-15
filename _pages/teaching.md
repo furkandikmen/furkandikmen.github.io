@@ -11,13 +11,11 @@ permalink: /teaching/
 
 ## Teaching Assistanships @ Boğaziçi University
 
-<details>
-<summary>Definitions</summary>
+
 
 [🧙‍♂️]: https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf
 [⚡️]:  https://furkandikmen.com/assets/syllabus/LING203_FALL2019.pdf
 
-</details>
 
 
 
