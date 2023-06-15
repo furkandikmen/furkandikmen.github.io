@@ -14,22 +14,21 @@ permalink: /teaching/
 <div align="center">
 
 
-|              |                |                |                |
-|--------------|----------------|----------------|----------------|
-| **2019 Spring**  | **2019 Fall**      | **2020 Spring**    | **2020 Fall**      |
-| LING102      | LING101        | LING102        | LING101        |
-|              | LING203        | LING314        | LING313        |
-|              | LING305        |                |                |
-|--------------|----------------|----------------|----------------|
-| **2021 Spring**  | **2021 Fall**      | **2022 Spring**    | **2022 Fall**      |
-| LING101      | LING101        | LING101        | LING203        |
-| LING102      | LING305        | LING102        | LING305        |
-| LING340      |                |                |                |
-|--------------|----------------|----------------|----------------|
-| **2023 Spring**  |                |                |                |
-| LING101      |                |                |                |
-| LING314      |                |                |                |
-|              |                |                |                |
+| Semester      | Courses                       |
+|---------------|-------------------------------|
+| 2019 Spring   | LING101                       |
+| 2019 Fall     | LING101, LING203, LING305     |
+| 2020 Spring   | LING102, LING314              |
+| 2020 Fall     | LING101, LING313              |
+| 2021 Spring   | LING101, LING102, LING340     |
+| 2021 Fall     | LING101, LING305              |
+| 2022 Spring   | LING101, LING102              |
+| 2022 Fall     | LING203, LING305              |
+| 2023 Spring   | LING101, LING314              |
+
 
 </div>
+
+
+
 
