@@ -14,7 +14,7 @@ permalink: /teaching/
 <!-- Definitions -->
 <!--
 
-[🧙‍♂️]: https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf{:target="_blank" rel="noopener noreferrer"}
+[🧙‍♂️]: https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf
 
 -->
 
