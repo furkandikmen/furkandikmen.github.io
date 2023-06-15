@@ -15,6 +15,7 @@ permalink: /teaching/
 
 [🧙‍♂️]: https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf
 [⚡️]:  https://furkandikmen.com/assets/syllabus/LING203_FALL2019.pdf
+[🦉]: https://furkandikmen.com/assets/syllabus/LING305Fall2020.pdf
 
 
 
