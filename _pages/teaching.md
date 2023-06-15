@@ -11,24 +11,25 @@ permalink: /teaching/
 
 ## Teaching Assistanships @ Boğaziçi University
 
-
-
-[🗣️📚]: https://furkandikmen.com/assets/syllabus/LING101_Fall2019.pdf
-[🧩🔤]:  https://furkandikmen.com/assets/syllabus/LING203_FALL2019.pdf
-[🧠📖]: https://furkandikmen.com/assets/syllabus/LING305Fall2020.pdf
+- 🗣️📚: Introduction to Language and Linguistics I
+- 🌐🔍: Introduction to Language and Linguistics II
+- 🧩🔤: Syntax
+- 🧠📖: Semantics
+- 🇹🇷🔡: Syntax and Semantics of Modern Turkish
+- 🔍🧩: Advanced Syntax
 
 
 | Semester      |               |               |               |
 |---------------|---------------|---------------|---------------|
-| 2019 Spring   | LING101       |               |               |
-| 2019 Fall     | LING101[🗣️📚]  | LING203[🧩🔤] | LING305[🧠📖]  |
-| 2020 Spring   | LING102       | LING314       |               |
-| 2020 Fall     | LING101       | LING313       |               |
-| 2021 Spring   | LING101       | LING102       | LING340       |
-| 2021 Fall     | LING101       | LING305       |               |
-| 2022 Spring   | LING101       | LING102       |               |
-| 2022 Fall     | LING203       | LING305       |               |
-| 2023 Spring   | LING101       | LING314       |               |
+| **2019 Spring**   | LING101🗣️📚    |               |               |
+| **2019 Fall**     | LING101🗣️📚    | LING203🧩🔤  | LING305🧠📖        |
+| **2020 Spring**   | LING102🌐🔍    | LING314🇹🇷🔡       |               |
+| **2020 Fall**     | LING101🗣️📚    | LING313🔊✏️       |               |
+| **2021 Spring**  | LING101🗣️📚    | LING102🌐🔍       | LING340🔍🧩       |
+| **2021 Fall**     | LING101🗣️📚    | LING305🧠📖       |               |
+| **2022 Spring**   | LING101🗣️📚    | LING102🌐🔍       |               |
+| **2022 Fall**     | LING203🧩🔤    | LING305🧠📖       |               |
+| **2023 Spring**   | LING101🗣️📚    | LING314🇹🇷🔡       |               |
 
 
 
