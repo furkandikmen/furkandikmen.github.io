@@ -11,13 +11,13 @@ permalink: /teaching/
   
 ## Teaching Assistanships @ Boğaziçi University
 
-- LING101🗣️📚: Introduction to Language and Linguistics I 
-- LING102🌐🔍: Introduction to Language and Linguistics II
-- LING203🧩🔤: Syntax
-- LING305🔍📘: Semantics
-- LING313🔊✏️: Phonology and Morphology of Modern Turkish
-- LING314🧩🔡: Syntax and Semantics of Modern Turkish
-- LING340🔍🧩: Advanced Syntax
+- LING101: Introduction to Language and Linguistics I 
+- LING102: Introduction to Language and Linguistics II
+- LING203: Syntax
+- LING305: Semantics
+- LING313: Phonology and Morphology of Modern Turkish
+- LING314: Syntax and Semantics of Modern Turkish
+- LING340: Advanced Syntax
 
 
 
