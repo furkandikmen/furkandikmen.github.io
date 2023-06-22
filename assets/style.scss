@@ -179,7 +179,7 @@ span[data-pullquote]:before {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: url("https://furkandikmen/images/pngwing.com.png"), auto;
+	cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
