@@ -4,13 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-**In press**
-
-- Furkan Dikmen and Ömer Demirok. Compounding with a polymorphic deverbaliser in Turkish. _Roczniki Humanistyczne ('Annals of Arts')_
 
 **Published work**
 
-- Furkan Dikmen, Ömer Demirok, and Balkız Öztürk (2022). [How can a language have double passives but lack antipassives?.](https://www.glossa-journal.org/article/id/6553/){:target="_blank" rel="noopener noreferrer"} Glossa: a journal of general linguistics, 7_(1).
+- Furkan Dikmen and Ömer Demirok (2023). [Compounding with a polymorphic deverbaliser in Turkish.](https://doi.org/10.18290/rh237111-5s){:target="_blank" rel="noopener noreferrer"}_Roczniki Humanistyczne ('Annals of Arts')_, 71_(11)
+
+- Furkan Dikmen, Ömer Demirok and Balkız Öztürk (2022). [How can a language have double passives but lack antipassives?.](https://www.glossa-journal.org/article/id/6553/){:target="_blank" rel="noopener noreferrer"} Glossa: a journal of general linguistics, 7_(1).
 
 - Furkan Dikmen and Ömer Demirok (2021). [Modifying result states in Turkish.](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003){:target="_blank" rel="noopener noreferrer"} In Semantics and Linguistic Theory (Vol. 31, pp. 042-060).
 
