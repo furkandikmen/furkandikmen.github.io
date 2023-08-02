@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+**Accepted for publication**
+
+Furkan Dikmen, Ömer Demirok and Ümit Atlamaz (accepted). Revisiting Agent Pseudo-Incorporation in Turkish: A Dependent Case Theoretic Perspective _The Linguistic Review_
 
 **Published work**
 
