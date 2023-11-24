@@ -4,11 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-**Accepted for publication**
-
-- Furkan Dikmen, Ömer Demirok and Ümit Atlamaz (accepted). Revisiting Agent Pseudo-Incorporation in Turkish: A Dependent Case Theoretic Perspective. _The Linguistic Review_ [MANUSCRIPT](https://furkandikmen.com/assets/publications/Linguistic Review(ms).pdf){:target="_blank" rel="noopener noreferrer"} (Index: SSCI)
 
 **Published work**
+
+- Furkan Dikmen, Ömer Demirok and Ümit Atlamaz (2023). [Revisiting Agent Pseudo-Incorporation in Turkish: A Dependent Case Theoretic Perspective.](https://doi.org/10.1515/tlr-2023-2011){:target="_blank" rel="noopener noreferrer"}_The Linguistic Review_ (Index: SSCI)
 
 - Furkan Dikmen and Ömer Demirok (2023). [Compounding with a polymorphic deverbaliser in Turkish.](https://doi.org/10.18290/rh237111-4s){:target="_blank" rel="noopener noreferrer"}_Roczniki Humanistyczne ('Annals of Arts')_, 71_(11) (Index: ESCI/Scopus)
 
