@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+**Accepted for publication**
+
+- Furkan Dikmen, Elena Guerzoni and Ömer Demirok (accepted). When tense shifts presuppositions: _hani_ and monstrous semantics. _Natural Language Semantics_ (Index: SSCI)
+
 
 **Published work**
 
