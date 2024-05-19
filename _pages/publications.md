@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-**Published articles in journals**
+**Journal articles**
 
 - Furkan Dikmen, Elena Guerzoni and Ömer Demirok (2023). [When tense shifts presuppositions: _hani_ and monstrous semantics.](https://doi.org/10.1007/s11050-023-09215-y){:target="_blank" rel="noopener noreferrer"} _Natural Language Semantics_ (Index: SSCI)
   
@@ -15,8 +15,11 @@ permalink: /publications/
 
 - Furkan Dikmen, Ömer Demirok and Balkız Öztürk (2022). [How can a language have double passives but lack antipassives?.](https://www.glossa-journal.org/article/id/6553/){:target="_blank" rel="noopener noreferrer"} Glossa: a journal of general linguistics, 7_(1). (Index: SSCI)
 
+**Book chapters**
 
-**Published articles in proceedings**
+- Furkan Dikmen, Ömer Demirok and Sumru Özsoy (2023). Türkçede orta ve nedensiz yapılar üzerine bir inceleme [An investigation of middle and anticausative constructions in Turkish]._Dilbilimde Güncel Tartışmalar 4_ Dilbilim Derneği Yayınları
+
+**Proceedings**
 
 - Furkan Dikmen and Ömer Demirok (2021). [Modifying result states in Turkish.](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003){:target="_blank" rel="noopener noreferrer"} In Semantics and Linguistic Theory (Vol. 31, pp. 042-060).
 
