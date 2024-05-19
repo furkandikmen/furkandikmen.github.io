@@ -17,7 +17,7 @@ permalink: /publications/
 
 **Book chapters**
 
-- Furkan Dikmen, Ömer Demirok and Sumru Özsoy (2023). Türkçede orta ve nedensiz yapılar üzerine bir inceleme[An investigation of middle and anticausative constructions in Turkish]. _Dilbilimde Güncel Tartışmalar 4_ Dilbilim Derneği Yayınları
+- Furkan Dikmen, Ömer Demirok and Sumru Özsoy (2023). Türkçede orta ve nedensiz yapılar üzerine bir inceleme[An investigation of middle and anticausative constructions in Turkish]. _Dilbilimde Güncel Tartışmalar 4_. Dilbilim Derneği Yayınları
 
 **Proceedings**
 
