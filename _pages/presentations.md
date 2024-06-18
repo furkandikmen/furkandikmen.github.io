@@ -4,7 +4,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
--Elena Guerzoni, Furkan Dikmen and Penka Stateva (2024). Another look at *numeral N-lAr. Talk presented in Boğaziçi Linguistic Circle (BCL) (Presenter: Elena Guerzoni), Boğaziçi University, Istanbul, Türkiye.
+
+- Elena Guerzoni, Furkan Dikmen and Penka Stateva (2024). Another look at *numeral N-lAr. Talk presented in Boğaziçi Linguistic Circle (BCL) (Presenter: Elena Guerzoni), Boğaziçi University, Istanbul, Türkiye.
 
 - Furkan Dikmen (2024). [What was believed, what was true: The case of _meğer_](https://furkandikmen.com/assets/presentations/SCOL24.pdf){:target="_blank" rel="noopener noreferrer"}, presented in Student Conference on Linguistics 2024.
 
