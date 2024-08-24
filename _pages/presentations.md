@@ -7,7 +7,7 @@ permalink: /presentations/
 
 - Furkan Dikmen (2024). [What was believed, what was true: The case of _meğer_](https://furkandikmen.com/assets/presentations/SCOL24.pdf){:target="_blank" rel="noopener noreferrer"}, presented in Student Conference on Linguistics 2024.
 
-- Furkan Dikmen, Elena Guerzoni and Ömer Demirok (2023). When tense shifts expressive presuppositions: hani and monstrous semantics, talk presented at Tu+8. [Handout](https://furkandikmen.com/assets/presentations/TU+8 (3).pdf){:target="_blank" rel="noopener noreferrer"},[Abstract](https://furkandikmen.com/assets/presentations/Tu+8-Dikmen, Guerzoni & Demirok (1).pdf){:target="_blank" rel="noopener noreferrer"}
+- Furkan Dikmen, Elena Guerzoni and Ömer Demirok (2023). When tense shifts expressive presuppositions: hani and monstrous semantics, talk presented at Tu+8. [Handout](https://furkandikmen.com/assets/presentations/TU+8 (3).pdf){:target="_blank" rel="noopener noreferrer"} and [Abstract](https://furkandikmen.com/assets/presentations/Tu+8-Dikmen, Guerzoni & Demirok (1).pdf){:target="_blank" rel="noopener noreferrer"}
 
 - Ümit Atlamaz and Furkan (2022). [Adjectival Diminutives in Turkish](https://furkandikmen.com/assets/presentations/Adjectival_Dimunitives.pdf){:target="_blank" rel="noopener noreferrer"}, presented DMTD Workshop series & WAFL16.
 
