@@ -5,7 +5,7 @@ permalink: /presentations/
 ---
 
 
-- Furkan Dikmen (2024). Believing p, discovering ¬p: meğer and epistemic shifts, poster to be presented in Sinn und Bedeutung 29. 
+- Furkan Dikmen (2024). [Believing p, discovering ¬p: meğer and epistemic shifts](https://furkandikmen.com/assets/presentations/Sub poster 2.pdf), poster to be presented in Sinn und Bedeutung 29. 
 
 - Furkan Dikmen (2024). [What was believed, what was true: The case of _meğer_](https://furkandikmen.com/assets/presentations/SCOL24.pdf){:target="_blank" rel="noopener noreferrer"}, presented in Student Conference on Linguistics 2024.
 
