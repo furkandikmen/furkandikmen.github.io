@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Journal articles**
 
-- Furkan Dikmen & Ömer Demirok (2024). On the non-actuality inferences in Turkish avertives._accepted for publication in Dilbilim Araştırmaları Dergisi (Journal of Linguistic Studies)_ (INDEX: SCOPUS)
+- Furkan Dikmen and Ömer Demirok (2024). On the non-actuality inferences in Turkish avertives._accepted for publication in Dilbilim Araştırmaları Dergisi (Journal of Linguistic Studies)_ (INDEX: SCOPUS)
 
 - Furkan Dikmen, Elena Guerzoni and Ömer Demirok (2023). [When tense shifts presuppositions: _hani_ and monstrous semantics.](https://doi.org/10.1007/s11050-023-09215-y){:target="_blank" rel="noopener noreferrer"} _Natural Language Semantics_ (Index: SSCI)
   
