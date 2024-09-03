@@ -7,6 +7,8 @@ permalink: /publications/
 
 **Journal articles**
 
+- Furkan Dikmen & Ömer Demirok (2024). On the non-actuality inferences in Turkish avertives._accepted for publication in Dilbilim Araştırmaları Dergisi (Journal of Linguistic Studies)_ (INDEX: SCOPUS)
+
 - Furkan Dikmen, Elena Guerzoni and Ömer Demirok (2023). [When tense shifts presuppositions: _hani_ and monstrous semantics.](https://doi.org/10.1007/s11050-023-09215-y){:target="_blank" rel="noopener noreferrer"} _Natural Language Semantics_ (Index: SSCI)
   
 - Furkan Dikmen, Ömer Demirok and Ümit Atlamaz (2023). [Revisiting Agent Pseudo-Incorporation in Turkish: A Dependent Case Theoretic Perspective.](https://doi.org/10.1515/tlr-2023-2011){:target="_blank" rel="noopener noreferrer"}_The Linguistic Review_ (Index: SSCI)
