@@ -12,7 +12,7 @@ permalink: /presentations/
 
 - Furkan Dikmen, Elena Guerzoni and Ömer Demirok (2023). When tense shifts expressive presuppositions: hani and monstrous semantics, talk presented at Tu+8. [Handout](https://furkandikmen.com/assets/presentations/TU+8 (3).pdf){:target="_blank" rel="noopener noreferrer"} and [Abstract](https://furkandikmen.com/assets/presentations/Tu+8-Dikmen, Guerzoni & Demirok (1).pdf){:target="_blank" rel="noopener noreferrer"}
 
-- Ümit Atlamaz and Furkan (2022). [Adjectival Diminutives in Turkish](https://furkandikmen.com/assets/presentations/Adjectival_Dimunitives.pdf){:target="_blank" rel="noopener noreferrer"}, presented DMTD Workshop series & WAFL16.
+- Ümit Atlamaz and Furkan Dikmen (2022). [Adjectival Diminutives in Turkish](https://furkandikmen.com/assets/presentations/Adjectival_Dimunitives.pdf){:target="_blank" rel="noopener noreferrer"}, presented DMTD Workshop series & WAFL16.
 
 - Furkan Dikmen, Ömer Demirok and Balkız Öztürk (2021). [Compounding with a polymorphic deverbalizer in Turkish](https://sites.google.com/view/nominalizations-jenom9/program){:target="_blank" rel="noopener noreferrer"}, presented at 9th Workshop on Nominalizations (JeNOM 9).
 
