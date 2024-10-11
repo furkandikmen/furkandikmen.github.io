@@ -9,6 +9,6 @@ permalink: /projects/
 
 [WORKSHOP 2](https://immages.hypotheses.org/1013){:target="_blank" rel="noopener noreferrer"}:
 
-- CLICK [HERE](assets/presentations/find_predicates.pdf){:target="_blank" rel="noopener noreferrer"} for the handout 
+- CLICK [HERE](https://furkandikmen.com/assets/presentations/find_predicates.pdf){:target="_blank" rel="noopener noreferrer"} for the handout 
 
 
