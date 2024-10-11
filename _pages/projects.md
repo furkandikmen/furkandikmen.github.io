@@ -7,7 +7,7 @@ permalink: /projects/
 
 [IMMAGES](https://immages.hypotheses.org/){:target="_blank" rel="noopener noreferrer"}
 
-[WORKSHOP 2](https://immages.hypotheses.org/1013){:target="_blank" rel="noopener noreferrer"}:
+[WORKSHOP in Tübingen](https://immages.hypotheses.org/1013){:target="_blank" rel="noopener noreferrer"}:
 
 - CLICK [HERE](https://furkandikmen.com/assets/presentations/find_predicates.pdf){:target="_blank" rel="noopener noreferrer"} for the handout 
 
