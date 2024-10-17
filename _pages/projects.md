@@ -9,6 +9,6 @@ permalink: /projects/
 
 **[WORKSHOP in Tübingen](https://immages.hypotheses.org/1013){:target="_blank" rel="noopener noreferrer"}:**
 
-- [Presentation Handout](https://furkandikmen.com/assets/presentations/find_predicates.pdf){:target="_blank" rel="noopener noreferrer"} 
+- [Presentation Handout](https://furkandikmen.com/assets/presentations/find_predicates(1).pdf){:target="_blank" rel="noopener noreferrer"} 
 
 
