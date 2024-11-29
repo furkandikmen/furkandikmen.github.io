@@ -4,7 +4,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-- <p style="text-align:center;">Elena Guerzoni, **Furkan Dikmen** and Penka Stateva. A novel account of Turkish singular and plural marking, presented in [the 17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17)](https://sites.google.com/view/sinfonija-17/home?authuser=0){:target="_blank" rel="noopener noreferrer"}</p>
+- Elena Guerzoni, **Furkan Dikmen** and Penka Stateva. A novel account of Turkish singular and plural marking, presented in [the 17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17)](https://sites.google.com/view/sinfonija-17/home?authuser=0){:target="_blank" rel="noopener noreferrer"}
 
 - Furkan Dikmen (2024). [Believing p, discovering ¬p: meğer and epistemic shifts](https://furkandikmen.com/assets/presentations/DIKMEN .pdf){:target="_blank" rel="noopener noreferrer"}, poster [in Sinn und Bedeutung 29](https://drive.google.com/file/d/1iVKxHEO0l1wIaTzoIHKD2u2d6qM9RGf5/view){:target="_blank" rel="noopener noreferrer"} 
 
