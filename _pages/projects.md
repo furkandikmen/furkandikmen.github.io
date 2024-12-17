@@ -9,6 +9,6 @@ permalink: /projects/
 
 **[WORKSHOP in Tübingen/11-12 October 2024](https://immages.hypotheses.org/1013){:target="_blank" rel="noopener noreferrer"}:**
 
-- [Presentation Handout](https://furkandikmen.com/assets/presentations/find_predicates(1).pdf){:target="_blank" rel="noopener noreferrer"} 
+- [find verbs and embedding discretionary predicates](https://furkandikmen.com/assets/presentations/find_predicates(1).pdf){:target="_blank" rel="noopener noreferrer"} 
 
 
