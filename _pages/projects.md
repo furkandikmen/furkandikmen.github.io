@@ -9,7 +9,7 @@ permalink: /projects/
 
 **[WORKSHOP in Tübingen/11-12 October 2024](https://immages.hypotheses.org/1013){:target="_blank" rel="noopener noreferrer"}:**
 
-- Furkan Dikmen (12 October 2024)[find verbs and discretionary predicates](https://furkandikmen.com/assets/presentations/find_predicates(1).pdf){:target="_blank" rel="noopener noreferrer"}. Talk presented in the workshop of IMMAGES, Tübingen, Germany.
+- Furkan Dikmen (12 October 2024). [find verbs and discretionary predicates](https://furkandikmen.com/assets/presentations/find_predicates(1).pdf){:target="_blank" rel="noopener noreferrer"}. Talk presented in the workshop of IMMAGES, Tübingen, Germany.
 
 
 **Online meetings of the project**
