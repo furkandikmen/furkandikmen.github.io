@@ -14,6 +14,6 @@ permalink: /projects/
 
 **Online meetings of the project**
 
--Furkan Dikmen (18 Dec 2024). [Marking belief shifts](https://furkandikmen.com/assets/presentations/find_predicates(1).pdf){:target="_blank" rel="noopener noreferrer"}. Talk presented in IMMAGES seminars. 
+-Furkan Dikmen (18 Dec 2024). [Marking belief shifts](https://furkandikmen.com/assets/presentations/immages_presentation_dec_18 (1).pdf){:target="_blank" rel="noopener noreferrer"}. Talk presented in IMMAGES seminars. 
 
 
