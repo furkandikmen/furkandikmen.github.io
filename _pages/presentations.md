@@ -4,7 +4,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-- Mehmet Can Dadan, Alper Canberk Balcı, **Furkan Dikmen** and Stefano Canalis (2025). Syllabic harmony in Turkish, presented in [the OCP Workshop on Vowel Harmony (OCP22)]{https://www.universiteitleiden.nl/en/events/2025/02/vowel-harmony}{:target="_blank" rel="noopener noreferrer"}
+- Mehmet Can Dadan, Alper Canberk Balcı, **Furkan Dikmen** and Stefano Canalis (2025). Syllabic harmony in Turkish, presented in [the OCP Workshop on Vowel Harmony (OCP22)](https://www.universiteitleiden.nl/en/events/2025/02/vowel-harmony){:target="_blank" rel="noopener noreferrer"}
 
 - Elena Guerzoni, **Furkan Dikmen** and Penka Stateva (2024). A novel account of Turkish singular and plural marking, presented in [the 17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17)](https://sites.google.com/view/sinfonija-17/home?authuser=0){:target="_blank" rel="noopener noreferrer"}
 
