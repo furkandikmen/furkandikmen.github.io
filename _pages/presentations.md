@@ -4,6 +4,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
+- Pierre Ardisson, **Furkan Dikmen**, Friederike Moltmann and Kalle Müller (2025). The role of plans for qua-events and their effects on part-structure, paper to be presented in 15th edition of the International Conference on Formal Ontology in Information Systems (FOIS), Catania, Sicily. 
+
 - Furkan Dikmen (2025). Finding objects of experiences, poster to be presented in Sinn und Bedeutung30 (SuB30), Frankfurt, Germany.
 
 - Mehmet Can Dadan, Alper Canberk Balcı, **Furkan Dikmen** and Stefano Canalis (2025). Syllabic harmony in Turkish, presented in [the OCP Workshop on Vowel Harmony (OCP22)](https://www.universiteitleiden.nl/en/events/2025/02/vowel-harmony){:target="_blank" rel="noopener noreferrer"}
