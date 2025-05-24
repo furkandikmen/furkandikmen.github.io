@@ -4,6 +4,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
+- Furkan Dikmen (2025). Finding objects of experiences, poster to be presented in Sinn und Bedeutung30 (SuB30), Frankfurt, Germany.
+
 - Mehmet Can Dadan, Alper Canberk Balcı, **Furkan Dikmen** and Stefano Canalis (2025). Syllabic harmony in Turkish, presented in [the OCP Workshop on Vowel Harmony (OCP22)](https://www.universiteitleiden.nl/en/events/2025/02/vowel-harmony){:target="_blank" rel="noopener noreferrer"}
 
 - Elena Guerzoni, **Furkan Dikmen** and Penka Stateva (2024). A novel account of Turkish singular and plural marking, presented in [the 17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17)](https://sites.google.com/view/sinfonija-17/home?authuser=0){:target="_blank" rel="noopener noreferrer"}
