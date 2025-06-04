@@ -26,7 +26,7 @@ permalink: /publications/
 
 **Proceedings**
 
-- Furkan Dikmen (to appear). Believing p, discovering ¬p: _meğer_ and epistemic shifts. _Proceedings of Sinn und Bedeutung 29_.
+- Furkan Dikmen (to appear). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.]{https://ling.auf.net/lingbuzz/008897}{:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
 
 - **Furkan Dikmen** and Ömer Demirok (2021). [Modifying result states in Turkish.](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003){:target="_blank" rel="noopener noreferrer"} In Semantics and Linguistic Theory (Vol. 31, pp. 042-060).
 
