@@ -26,7 +26,7 @@ permalink: /publications/
 
 **Proceedings**
 
-- **Pierre Ardisson, **Furkan Dikmen**, Friederike Moltmann and Kalle Müller (to appear). [The role of plans for qua-events and their
+- Pierre Ardisson, **Furkan Dikmen**, Friederike Moltmann and Kalle Müller (to appear). [The role of plans for qua-events and their
 effects on part-structure](https://lingbuzz.net/lingbuzz/009124){:target="_blank" rel="noopener noreferrer"}._In the Proceedings of 15th edition of the International Conference on Formal Ontology in Information Systems (FOIS)_ IOS Press.
 
 - Furkan Dikmen (to appear). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.](https://furkandikmen.com/assets/publications/dikmen_25_Believing-p-dis (3).pdf){:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
