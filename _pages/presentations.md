@@ -4,6 +4,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
+- **Furkan Dikmen**, Lena Baunaz and Katerina Palasis (2025). French perception verbs are not equal, talk to be presented in Going Romance 2025, Venice, Italy. 
+
 - Pierre Ardisson, **Furkan Dikmen**, Friederike Moltmann and Kalle Müller (2025). The role of plans for qua-events and their effects on part-structure, paper to be presented in 15th edition of the International Conference on Formal Ontology in Information Systems (FOIS), Catania, Sicily. 
 
 - Furkan Dikmen (2025). Finding objects of experiences, poster to be presented in Sinn und Bedeutung30 (SuB30), Frankfurt, Germany.
