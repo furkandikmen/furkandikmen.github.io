@@ -36,3 +36,9 @@ effects on part-structure](https://lingbuzz.net/lingbuzz/009124){:target="_blank
 - Stefano Canalis and **Furkan Dikmen** (2021). [Turkish palatalized consonants.](https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/4781){:target="_blank" rel="noopener noreferrer"} In _Proceedings of the Workshop on Turkic and Languages in Contact with Turkic_ (Vol. 5, No. 1, pp. 41-55).
 
 - **Furkan Dikmen** (2021). [Associative plurality in Turkish.](https://furkandikmen.com/assets/publications/Associative_plurality_in_Turkish.pdf){:target="_blank" rel="noopener noreferrer"} In _Proocedings of the 15th Workshop on Altaic Formal Linguistics [(WAFL15)](http://mitwpl.mit.edu/catalog/mwpl93/){:target="_blank" rel="noopener noreferrer"}_ (pp. 15–27).
+
+**Work in progress**
+
+- **Furkan Dikmen**, Lena Baunaz, Anne-Li Demonie. Attitudes of fear and expletive negation in French.
+- Ümit Atlamaz, **Furkan Dikmen**. Affixes as Roots and Phrases: Diminutives in Turkish.
+
