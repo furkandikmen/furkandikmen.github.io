@@ -19,7 +19,7 @@ permalink: /publications/
 
 **Book chapters**
 
-- **Furkan Dikmen** and Ömer Demirok (accepted for publication). "Decomposing habituals". _Nanosyntax and the Lexicalisation Algorithm_(edited by Pavel Caha, Karen De Clercq and Guido Vanden Wyngaerd)
+- **Furkan Dikmen** and Ömer Demirok (21 October 2025 (Estimated)). "Decomposing habituals". [_Nanosyntax and the Lexicalisation Algorithm_](https://global.oup.com/academic/product/nanosyntax-and-the-lexicalization-algorithm-9780198947134?cc=fr&lang=en&#){:target="_blank" rel="noopener noreferrer"}, edited by Pavel Caha, Karen De Clercq and Guido Vanden Wyngaerd. Oxford University Press.
 
 - **Furkan Dikmen**, Sercan Karakaş and Sumru Özsoy (2024). Türkçede orta ve nedensiz yapılar üzerine bir inceleme[An investigation of middle and anticausative constructions in Turkish]. _Dilbilimde Güncel Tartışmalar-4_. Dilbilim Derneği Yayınları
 
