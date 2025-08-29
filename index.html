@@ -33,5 +33,12 @@ layout: default
     </li>
 </ul>
 
-<script type="text/javascript" src="https://www.free-counters.org/count/ii2i"></script><br>
- <a href='https://www.versicherungen.at/eigenheimversicherung/'>Eigenheimversicherung Österreich</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=c7f64f0f2d6033e81faa54f844091cac5670d11e'></script>
+<script>
+    fetch('https://api.countapi.xyz/hit/yourusername.github.io/visits')
+      .then(res => res.json())
+      .then(data => {
+        console.log("Visitor count:", data.value);
+      });
+    </script>
+  </body>
+</html>
