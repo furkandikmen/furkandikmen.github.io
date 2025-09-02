@@ -26,10 +26,10 @@ permalink: /publications/
 
 **Proceedings**
 
+- Furkan Dikmen (to appear). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.](https://furkandikmen.com/assets/publications/dikmen_25_Believing-p-dis (3).pdf){:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
+
 - Pierre Ardisson, **Furkan Dikmen**, Friederike Moltmann and Kalle Müller (2025). [The role of plans for qua-events and their
 effects on part-structure](https://10.3233/FAIA250485){:target="_blank" rel="noopener noreferrer"}._In the Proceedings of 15th edition of the International Conference on Formal Ontology in Information Systems (FOIS)_ IOS Press.
-
-- Furkan Dikmen (to appear). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.](https://furkandikmen.com/assets/publications/dikmen_25_Believing-p-dis (3).pdf){:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
 
 - **Furkan Dikmen** and Ömer Demirok (2021). [Modifying result states in Turkish.](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003){:target="_blank" rel="noopener noreferrer"} In Semantics and Linguistic Theory (Vol. 31, pp. 042-060).
 
