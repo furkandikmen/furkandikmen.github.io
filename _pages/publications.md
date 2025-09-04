@@ -4,32 +4,24 @@ title: Publications
 permalink: /publications/
 ---
 
+- Furkan Dikmen (forthcoming). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.](https://furkandikmen.com/assets/publications/dikmen_25_Believing-p-dis (3).pdf){:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
 
-**Journal articles**
+- **Furkan Dikmen** and Ömer Demirok (21 October 2025 (Estimated)). "Decomposing habituals". [_Nanosyntax and the Lexicalisation Algorithm_](https://global.oup.com/academic/product/nanosyntax-and-the-lexicalization-algorithm-9780198947134?cc=fr&lang=en&#){:target="_blank" rel="noopener noreferrer"}, edited by Pavel Caha, Karen De Clercq and Guido Vanden Wyngaerd. Oxford University Press.
 
-- **Furkan Dikmen** and Ömer Demirok (2024). [On the non-actuality inferences in Turkish avertives](https://doi.org/10.18492/dad.1448720){:target="_blank" rel="noopener noreferrer"}. _Dilbilim Araştırmaları Dergisi (Journal of Linguistics Research)_ (INDEX: Scopus)
+- Pierre Ardisson, **Furkan Dikmen**, Friederike Moltmann and Kalle Müller (2025). [The role of plans for qua-events and their
+effects on part-structure](https://ebooks.iospress.nl/doi/10.3233/FAIA250485){:target="_blank" rel="noopener noreferrer"}._In the Proceedings of 15th edition of the International Conference on Formal Ontology in Information Systems (FOIS)_ IOS Press.
+  
+- **Furkan Dikmen** and Ömer Demirok (2024). [On the non-actuality inferences in Turkish avertives](https://doi.org/10.18492/dad.1448720){:target="_blank" rel="noopener noreferrer"}. _Dilbilim Araştırmaları Dergisi (Journal of Linguistics Research)_ (INDEX: Scopus) 
 
-- **Furkan Dikmen**, Elena Guerzoni and Ömer Demirok (2023). [When tense shifts presuppositions: _hani_ and monstrous semantics.](https://doi.org/10.1007/s11050-023-09215-y){:target="_blank" rel="noopener noreferrer"} _Natural Language Semantics_ (INDEX: SSCI)
+- **Furkan Dikmen**, Sercan Karakaş and Sumru Özsoy (2024). Türkçede orta ve nedensiz yapılar üzerine bir inceleme[An investigation of middle and anticausative constructions in Turkish]. _Dilbilimde Güncel Tartışmalar-4_. Dilbilim Derneği Yayınları
+
+- **Furkan Dikmen**, Elena Guerzoni and Ömer Demirok (2024). [When tense shifts presuppositions: _hani_ and monstrous semantics.](https://doi.org/10.1007/s11050-023-09215-y){:target="_blank" rel="noopener noreferrer"} _Natural Language Semantics_ (INDEX: SSCI)
   
 - **Furkan Dikmen**, Ömer Demirok and Ümit Atlamaz (2023). [Revisiting Agent Pseudo-Incorporation in Turkish: A Dependent Case Theoretic Perspective.](https://doi.org/10.1515/tlr-2023-2011){:target="_blank" rel="noopener noreferrer"}_The Linguistic Review_ (INDEX: SSCI)
 
 - **Furkan Dikmen** and Ömer Demirok (2023). [Compounding with a polymorphic deverbaliser in Turkish.](https://doi.org/10.18290/rh237111-4s){:target="_blank" rel="noopener noreferrer"}_Roczniki Humanistyczne ('Annals of Arts')_, 71_(11) (INDEX: ESCI/Scopus)
 
 - **Furkan Dikmen**, Ömer Demirok and Balkız Öztürk (2022). [How can a language have double passives but lack antipassives?.](https://www.glossa-journal.org/article/id/6553/){:target="_blank" rel="noopener noreferrer"} Glossa: a journal of general linguistics, 7_(1). (INDEX: SSCI)
-
-**Book chapters**
-
-- **Furkan Dikmen** and Ömer Demirok (21 October 2025 (Estimated)). "Decomposing habituals". [_Nanosyntax and the Lexicalisation Algorithm_](https://global.oup.com/academic/product/nanosyntax-and-the-lexicalization-algorithm-9780198947134?cc=fr&lang=en&#){:target="_blank" rel="noopener noreferrer"}, edited by Pavel Caha, Karen De Clercq and Guido Vanden Wyngaerd. Oxford University Press.
-
-- **Furkan Dikmen**, Sercan Karakaş and Sumru Özsoy (2024). Türkçede orta ve nedensiz yapılar üzerine bir inceleme[An investigation of middle and anticausative constructions in Turkish]. _Dilbilimde Güncel Tartışmalar-4_. Dilbilim Derneği Yayınları
-
-
-**Proceedings**
-
-- Furkan Dikmen (to appear). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.](https://furkandikmen.com/assets/publications/dikmen_25_Believing-p-dis (3).pdf){:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
-
-- Pierre Ardisson, **Furkan Dikmen**, Friederike Moltmann and Kalle Müller (2025). [The role of plans for qua-events and their
-effects on part-structure](https://ebooks.iospress.nl/doi/10.3233/FAIA250485){:target="_blank" rel="noopener noreferrer"}._In the Proceedings of 15th edition of the International Conference on Formal Ontology in Information Systems (FOIS)_ IOS Press.
 
 - **Furkan Dikmen** and Ömer Demirok (2021). [Modifying result states in Turkish.](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003){:target="_blank" rel="noopener noreferrer"} In Semantics and Linguistic Theory (Vol. 31, pp. 042-060).
 
