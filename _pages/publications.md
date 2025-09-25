@@ -98,7 +98,7 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>When tense shifts presuppositions: <em>hani</em> and monstrous semantics <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Elena Guerzoni, Ömer Demirok. <em>Natural Language Semantics</em>. .</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Elena Guerzoni, Ömer Demirok. <em>Natural Language Semantics</em>. </p>
     <p class="links"><a href="https://doi.org/10.1007/s11050-023-09215-y" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
@@ -107,7 +107,7 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Revisiting Agent Pseudo-Incorporation in Turkish: A Dependent Case Theoretic Perspective <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Ümit Atlamaz. <em>The Linguistic Review</em>. .</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Ümit Atlamaz. <em>The Linguistic Review</em>. </p>
     <p class="links"><a href="https://doi.org/10.1515/tlr-2023-2011" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
@@ -123,7 +123,7 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>How can a language have double passives but lack antipassives? <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Balkız Öztürk. <em>Glossa: a journal of general linguistics</em>, 7(1). .</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Balkız Öztürk. <em>Glossa: a journal of general linguistics</em>, 7(1). </p>
     <p class="links"><a href="https://www.glossa-journal.org/article/id/6553/" target="_blank" rel="noopener noreferrer">Open access</a></p>
   </article>
 
