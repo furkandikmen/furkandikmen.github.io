@@ -99,6 +99,10 @@ permalink: /publications/
     <!-- or prefilled (optional) -->
     <!-- <a href="mailto:furkan.dikmen@etu.univ-cotedazur.fr?subject=Requesting%20chapter%20PDF%20(Dilbilimde%20G%C3%BCncel%20Tart%C4%B1%C5%9Fmalar-4)&body=Hi%20Furkan%2C%0A%0ACould%20you%20share%20a%20copy%20of%20your%20chapter%20%E2%80%9CT%C3%BCrk%C3%A7ede%20orta%20ve%20nedensiz%20yap%C4%B1lar%20%E2%80%A6%E2%80%9D%3F%0A%0AThanks!">Request copy</a> -->
   </p>
+   <p class="links">
+  <a href="mailto:furkan.dikmen@etu.univ-cotedazur.fr">Email me</a>
+  <span class="plain-email">furkan.dikmen@etu.univ-cotedazur.fr</span>
+</p>
 </article>
 
 
