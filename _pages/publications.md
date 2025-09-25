@@ -62,21 +62,21 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Believing p, discovering ¬p: <em>meğer</em> and epistemic shifts <span class="badge">Proceedings</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong> (2025). <em>Proceedings of Sinn und Bedeutung 29</em>.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>. <em>Proceedings of Sinn und Bedeutung 29</em>.</p>
     <p class="links"><a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1220" target="_blank" rel="noopener noreferrer">Open access</a></p>
   </article>
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Decomposing habituals <span class="badge">Book chapter</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok (2025). In <em>Nanosyntax and the Lexicalisation Algorithm</em>, ed. Pavel Caha, Karen De Clercq, Guido Vanden Wyngaerd. Oxford University Press.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok. <em>Nanosyntax and the Lexicalisation Algorithm</em>, ed. Pavel Caha, Karen De Clercq, Guido Vanden Wyngaerd. Oxford University Press.</p>
     <p class="links"><a href="https://doi.org/10.1093/9780198947158.003.0004" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>The role of plans for qua-events and their effects on part-structure <span class="badge">Proceedings</span></h3>
-    <p class="meta">Pierre Ardisson, <strong>Furkan Dikmen</strong>, Friederike Moltmann, Kalle Müller (2025). In <em>Proceedings of the 15th International Conference on Formal Ontology in Information Systems (FOIS)</em>. IOS Press.</p>
+    <p class="meta">Pierre Ardisson, <strong>Furkan Dikmen</strong>, Friederike Moltmann, Kalle Müller. <em>Proceedings of the 15th International Conference on Formal Ontology in Information Systems (FOIS)</em>. IOS Press.</p>
     <p class="links"><a href="https://ebooks.iospress.nl/doi/10.3233/FAIA250485" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
@@ -85,20 +85,20 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>On the non-actuality inferences in Turkish avertives <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok (2024). <em>Dilbilim Araştırmaları Dergisi (Journal of Linguistics Research)</em>. (INDEX: Scopus).</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok. <em>Dilbilim Araştırmaları Dergisi (Journal of Linguistics Research)</em>..</p>
     <p class="links"><a href="https://doi.org/10.18492/dad.1448720" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Türkçede orta ve nedensiz yapılar üzerine bir inceleme [An investigation of middle and anticausative constructions in Turkish] <span class="badge">Book chapter</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Sercan Karakaş, Sumru Özsoy (2024). In <em>Dilbilimde Güncel Tartışmalar-4</em>. Dilbilim Derneği Yayınları.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Sercan Karakaş, Sumru Özsoy. <em>Dilbilimde Güncel Tartışmalar-4</em>. Dilbilim Derneği Yayınları.</p>
   </article>
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>When tense shifts presuppositions: <em>hani</em> and monstrous semantics <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Elena Guerzoni, Ömer Demirok (2024). <em>Natural Language Semantics</em>. (INDEX: SSCI).</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Elena Guerzoni, Ömer Demirok. <em>Natural Language Semantics</em>. .</p>
     <p class="links"><a href="https://doi.org/10.1007/s11050-023-09215-y" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
@@ -107,14 +107,14 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Revisiting Agent Pseudo-Incorporation in Turkish: A Dependent Case Theoretic Perspective <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Ümit Atlamaz (2023). <em>The Linguistic Review</em>. (INDEX: SSCI).</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Ümit Atlamaz. <em>The Linguistic Review</em>. .</p>
     <p class="links"><a href="https://doi.org/10.1515/tlr-2023-2011" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Compounding with a polymorphic deverbaliser in Turkish <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok (2023). <em>Roczniki Humanistyczne</em>, 71(11). (INDEX: ESCI/Scopus).</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok. <em>Roczniki Humanistyczne</em>, 71(11)..</p>
     <p class="links"><a href="https://doi.org/10.18290/rh237111-4s" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
@@ -123,7 +123,7 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>How can a language have double passives but lack antipassives? <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Balkız Öztürk (2022). <em>Glossa: a journal of general linguistics</em>, 7(1). (INDEX: SSCI).</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Balkız Öztürk. <em>Glossa: a journal of general linguistics</em>, 7(1). .</p>
     <p class="links"><a href="https://www.glossa-journal.org/article/id/6553/" target="_blank" rel="noopener noreferrer">Open access</a></p>
   </article>
 
@@ -132,21 +132,21 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Modifying result states in Turkish <span class="badge">Proceedings</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok (2021). In <em>Semantics and Linguistic Theory 31</em>, pp. 42–60.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok. <em>Semantics and Linguistic Theory 31</em>, pp. 42–60.</p>
     <p class="links"><a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003" target="_blank" rel="noopener noreferrer">Open access</a></p>
   </article>
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Turkish palatalized consonants <span class="badge">Proceedings</span></h3>
-    <p class="meta">Stefano Canalis, <strong>Furkan Dikmen</strong> (2021). In <em>Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+5)</em>, pp. 41–55.</p>
+    <p class="meta">Stefano Canalis, <strong>Furkan Dikmen</strong>. <em>Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+5)</em>, pp. 41–55.</p>
     <p class="links"><a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/4781" target="_blank" rel="noopener noreferrer">Open access</a></p>
   </article>
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Associative plurality in Turkish <span class="badge">Proceedings</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong> (2021). In <em>Proceedings of the 15th Workshop on Altaic Formal Linguistics (WAFL15)</em>, pp. 15–27.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>. <em>Proceedings of the 15th Workshop on Altaic Formal Linguistics (WAFL15)</em>, pp. 15–27.</p>
     <p class="links">
       <a href="https://furkandikmen.com/assets/publications/Associative_plurality_in_Turkish.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
       <a href="http://mitwpl.mit.edu/catalog/mwpl93/" target="_blank" rel="noopener noreferrer">Series</a>
