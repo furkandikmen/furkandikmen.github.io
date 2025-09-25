@@ -46,7 +46,7 @@ permalink: /projects/
 <!-- Project headline card -->
 <div class="card">
   <h2>IMMAGES — Hosting a clause: Implications for the Matrix and its Guests</h2>
-  <p>Research project (CNRS–BCL) on clause hosting and its implications for the matrix/embedded relation.</p>
+  <p>Research project (ANR-DFG) on clause hosting and its implications for the matrix/embedded relation.</p>
   <p class="links">
     <a href="https://immages.hypotheses.org/" target="_blank" rel="noopener noreferrer">Project site</a>
   </p>
