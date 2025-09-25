@@ -60,7 +60,7 @@ permalink: /presentations/
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">French perception verbs are not equal <span class="badge">Talk</span></h3>
     <p class="meta">
-      <strong itemprop="author">Furkan Dikmen</strong>, Lena Baunaz, Katerina Palasis (2025).
+      <strong itemprop="author">Furkan Dikmen</strong>, Lena Baunaz, Katerina Palasis.
       Going Romance 2025, Venice, Italy.
     </p>
   </article>
@@ -69,7 +69,7 @@ permalink: /presentations/
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">The role of plans for qua-events and their effects on part-structure <span class="badge">Paper</span></h3>
     <p class="meta">
-      Pierre Ardisson, <strong>Furkan Dikmen</strong>, Friederike Moltmann, Kalle Müller (2025).
+      Pierre Ardisson, <strong>Furkan Dikmen</strong>, Friederike Moltmann, Kalle Müller.
       15th International Conference on Formal Ontology in Information Systems (FOIS), Catania, Sicily.
     </p>
   </article>
@@ -78,7 +78,7 @@ permalink: /presentations/
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">Finding objects of experiences <span class="badge">Poster</span></h3>
     <p class="meta">
-      <strong>Furkan Dikmen</strong> (2025). Sinn und Bedeutung 30 (SuB30), Frankfurt, Germany.
+      <strong>Furkan Dikmen</strong>. Sinn und Bedeutung 30 (SuB30), Frankfurt, Germany.
     </p>
     <p class="links">
       <a href="https://vicom.info/sub30-program-2/" target="_blank" rel="noopener noreferrer">Program</a>
@@ -89,7 +89,7 @@ permalink: /presentations/
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">Syllabic harmony in Turkish</h3>
     <p class="meta">
-      Mehmet Can Dadan, Alper Canberk Balcı, <strong>Furkan Dikmen</strong>, Stefano Canalis (2025).
+      Mehmet Can Dadan, Alper Canberk Balcı, <strong>Furkan Dikmen</strong>, Stefano Canalis.
       Presented in the OCP Workshop on Vowel Harmony (OCP22).
     </p>
     <p class="links">
@@ -103,7 +103,7 @@ permalink: /presentations/
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">A novel account of Turkish singular and plural marking</h3>
     <p class="meta">
-      Elena Guerzoni, <strong>Furkan Dikmen</strong>, Penka Stateva (2024).
+      Elena Guerzoni, <strong>Furkan Dikmen</strong>, Penka Stateva.
       17th conference on Syntax, Phonology and Language Analysis (SinFonIJA 17).
     </p>
     <p class="links">
@@ -114,7 +114,7 @@ permalink: /presentations/
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">Believing p, discovering ¬p: <em>meğer</em> and epistemic shifts <span class="badge">Poster</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong> (2024). Sinn und Bedeutung 29.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>. Sinn und Bedeutung 29.</p>
     <p class="links">
       <a href="https://furkandikmen.com/assets/presentations/DIKMEN%20.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
       <a href="https://drive.google.com/file/d/1iVKxHEO0l1wIaTzoIHKD2u2d6qM9RGf5/view" target="_blank" rel="noopener noreferrer">Conference page</a>
@@ -124,7 +124,7 @@ permalink: /presentations/
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">What was believed, what was true: The case of <em>meğer</em></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong> (2024). Student Conference on Linguistics 2024.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>. Student Conference on Linguistics 2024.</p>
     <p class="links">
       <a href="https://furkandikmen.com/assets/presentations/SCOL24.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     </p>
@@ -135,7 +135,7 @@ permalink: /presentations/
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">When tense shifts expressive presuppositions: <em>hani</em> and monstrous semantics</h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Elena Guerzoni, Ömer Demirok (2023). Tu+8.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Elena Guerzoni, Ömer Demirok. Tu+8.</p>
     <p class="links">
       <a href="https://furkandikmen.com/assets/presentations/TU+8%20(3).pdf" target="_blank" rel="noopener noreferrer">Handout</a>
       <a href="https://furkandikmen.com/assets/presentations/Tu+8-Dikmen,%20Guerzoni%20&%20Demirok%20(1).pdf" target="_blank" rel="noopener noreferrer">Abstract</a>
@@ -147,7 +147,7 @@ permalink: /presentations/
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">Adjectival Diminutives in Turkish</h3>
-    <p class="meta">Ümit Atlamaz, <strong>Furkan Dikmen</strong> (2022). DMTD Workshop series &amp; WAFL16.</p>
+    <p class="meta">Ümit Atlamaz, <strong>Furkan Dikmen</strong>. DMTD Workshop series &amp; WAFL16.</p>
     <p class="links">
       <a href="https://furkandikmen.com/assets/presentations/Adjectival_Dimunitives.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     </p>
@@ -158,7 +158,7 @@ permalink: /presentations/
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">Compounding with a polymorphic deverbalizer in Turkish</h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Balkız Öztürk (2021). 9th Workshop on Nominalizations (JeNOM 9).</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Balkız Öztürk. 9th Workshop on Nominalizations (JeNOM 9).</p>
     <p class="links">
       <a href="https://sites.google.com/view/nominalizations-jenom9/program" target="_blank" rel="noopener noreferrer">Program</a>
     </p>
@@ -167,7 +167,7 @@ permalink: /presentations/
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">Modifying result states in Turkish <span class="badge">Poster</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok (2021). Semantics and Linguistic Theory (SALT 31).</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok. Semantics and Linguistic Theory (SALT 31).</p>
     <p class="links">
       <a href="https://osf.io/g8da5/" target="_blank" rel="noopener noreferrer">OSF</a>
     </p>
@@ -178,7 +178,7 @@ permalink: /presentations/
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">Palatalized Turkish consonants and vowel harmony</h3>
-    <p class="meta">Stefano Canalis, <strong>Furkan Dikmen</strong> (2020). The 5th workshop on Turkic and languages in contact with Turkic (Tu+5).</p>
+    <p class="meta">Stefano Canalis, <strong>Furkan Dikmen</strong>. The 5th workshop on Turkic and languages in contact with Turkic (Tu+5).</p>
     <p class="links">
       <a href="https://bpb-us-w2.wpmucdn.com/sites.udel.edu/dist/1/9450/files/2019/12/tunamed.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     </p>
@@ -189,7 +189,7 @@ permalink: /presentations/
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
     <h3 itemprop="name">The semantics of the associative -lAr in Turkish <span class="badge">Poster</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong> (2019). Workshop on Altaic Formal Linguistics 15 (WAFL 2019).</p>
+    <p class="meta"><strong>Furkan Dikmen</strong>. Workshop on Altaic Formal Linguistics 15 (WAFL 2019).</p>
     <p class="links">
       <a href="https://furkandikmen.com/assets/presentations/WAFL%2015-Furkan%20Dikmen.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     </p>
