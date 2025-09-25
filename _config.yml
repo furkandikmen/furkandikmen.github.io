@@ -22,8 +22,11 @@ avatar: /images/PROFILE.jpg
 footer-links:
   dribbble:
   email: furkan.dikmen@etu.univ-cotedazur.fr
-  footer-email-plain: "furkan.dikmen@etu.univ-cotedazur.fr"
   researchgate: Furkan-Dikmen
+
+# <-- put this at top level (not under footer-links)
+footer-email-plain: "furkan.dikmen@etu.univ-cotedazur.fr"
+
   #facebook:
   #flickr:
   #github: amitmerchant1990/reverie
