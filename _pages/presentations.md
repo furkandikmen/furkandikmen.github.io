@@ -10,23 +10,38 @@ permalink: /presentations/
 #talk-filter{width:min(420px,100%);padding:.55rem .7rem;border:1px solid #d1d5db;border-radius:.5rem}
 
 .talks{position:relative;margin:1rem 0 3rem}
-.talks::before{content:"";position:absolute;left:1rem;top:.25rem;bottom:.25rem;width:2px;background:#e5e7eb} /* shifted slightly for better centering */
-.year{font-weight:700;margin:2rem 0 .5rem;color:#111827;letter-spacing:.02em}
+.talks::before{content:"";position:absolute;left:1rem;top:.25rem;bottom:.25rem;width:2px;background:#e5e7eb}
 
-.talk{position:relative;margin:0 0 1rem;padding:.25rem 0 .25rem 2rem;border-radius:.5rem} /* was 3rem; now 2rem */
+/* YEAR pill above the timeline */
+.year{
+  position:relative;
+  z-index:1;
+  display:inline-block;
+  padding:.15rem .6rem;
+  margin:2rem 0 .6rem;
+  font-weight:700;
+  letter-spacing:.02em;
+  color:#111827;
+  background:#fff;
+  border:1px solid #e5e7eb;
+  border-radius:.75rem;
+  line-height:1;
+}
+
+.talk{position:relative;margin:0 0 1rem;padding:.25rem 0 .25rem 2rem;border-radius:.5rem}
 .talk:hover{background:rgba(0,0,0,.03)}
-.dot{position:absolute;left:.5rem;top:.85rem;width:.8rem;height:.8rem;border-radius:50%;background:#111827;box-shadow:0 0 0 4px #fff} /* nudged into gutter */
+.dot{position:absolute;left:.5rem;top:.85rem;width:.8rem;height:.8rem;border-radius:50%;background:#111827;box-shadow:0 0 0 4px #fff}
 
-.talk h3{margin:0 0 .2rem 0;font-size:1.05rem;line-height:1.4;text-align:left} /* ensure left-aligned */
+.talk h3{margin:0 0 .2rem 0;font-size:1.05rem;line-height:1.4;text-align:left}
 .meta{margin:0 0 .25rem 0;color:#374151}
-.links{margin:.25rem 0 0 0} /* keep links aligned under meta */
+.links{margin:.25rem 0 0 0}
 .links a{display:inline-block;margin-right:.5rem;font-size:.85rem;text-decoration:none;border:1px solid #d1d5db;padding:.1rem .45rem;border-radius:.375rem}
 .badge{font-size:.7rem;border:1px solid #d1d5db;padding:.05rem .35rem;border-radius:.375rem;margin-left:.4rem}
 
 @media (prefers-color-scheme: dark){
   #talk-filter{border-color:#4b5563;background:#0b0f14;color:#e5e7eb}
   .talks::before{background:#374151}
-  .year{color:#e5e7eb}
+  .year{background:#0b0f14;color:#e5e7eb;border-color:#374151}
   .dot{background:#e5e7eb}
   .talk:hover{background:rgba(255,255,255,.04)}
   .meta{color:#cbd5e1}
@@ -182,22 +197,8 @@ permalink: /presentations/
 </section>
 
 <script>
-/* -------- Tiny search filter: finds text across titles/authors/venues -------- */
 document.addEventListener('DOMContentLoaded', () => {
-  const input = document.querySelector('#talk-filter');
-  if (!input) return;
-  input.addEventListener('input', e => {
-    const q = e.target.value.toLowerCase();
-    document.querySelectorAll('.talk').forEach(t => {
-      t.style.display = t.textContent.toLowerCase().includes(q) ? '' : 'none';
-    });
-  });
-});
-</script>
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  // existing filter
+  /* filter */
   const input = document.querySelector('#talk-filter');
   if (input) {
     input.addEventListener('input', e => {
@@ -207,18 +208,16 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     });
   }
-
-  // NEW: auto-add "Talk" badge where none is specified
+  /* auto-add "Talk" badge where none is specified */
   document.querySelectorAll('.talk h3').forEach(h3 => {
     const hasBadge = h3.querySelector('.badge');
     if (!hasBadge) {
       const span = document.createElement('span');
       span.className = 'badge';
       span.textContent = 'Talk';
-      h3.appendChild(document.createTextNode(' ')); // add a space before badge
+      h3.appendChild(document.createTextNode(' '));
       h3.appendChild(span);
     }
   });
 });
 </script>
-
