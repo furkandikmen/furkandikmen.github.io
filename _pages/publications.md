@@ -10,7 +10,22 @@ permalink: /publications/
 
 .pubs{position:relative;margin:1rem 0 3rem}
 .pubs::before{content:"";position:absolute;left:1rem;top:.25rem;bottom:.25rem;width:2px;background:#e5e7eb}
-.year{font-weight:700;margin:2rem 0 .5rem;color:#111827;letter-spacing:.02em}
+
+/* YEAR pill sits above the line */
+.year{
+  position:relative;          /* enables z-index */
+  z-index:1;                  /* lift above timeline line */
+  display:inline-block;
+  padding:.15rem .6rem;
+  margin:2rem 0 .6rem;
+  font-weight:700;
+  letter-spacing:.02em;
+  color:#111827;
+  background:#fff;            /* mask the line behind */
+  border:1px solid #e5e7eb;
+  border-radius:.75rem;       /* rounded pill */
+  line-height:1;
+}
 
 .pub{position:relative;margin:0 0 1rem;padding:.25rem 0 .25rem 2rem;border-radius:.5rem}
 .pub:hover{background:rgba(0,0,0,.03)}
@@ -25,7 +40,11 @@ permalink: /publications/
 @media (prefers-color-scheme: dark){
   #pub-filter{border-color:#4b5563;background:#0b0f14;color:#e5e7eb}
   .pubs::before{background:#374151}
-  .year{color:#e5e7eb}
+  .year{
+    background:#0b0f14;      /* dark page bg */
+    color:#e5e7eb;
+    border-color:#374151;
+  }
   .dot{background:#e5e7eb}
   .pub:hover{background:rgba(255,255,255,.04)}
   .meta{color:#cbd5e1}
