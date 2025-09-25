@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- Furkan Dikmen (forthcoming). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.](https://furkandikmen.com/assets/publications/dikmen_25_Believing-p-dis (3).pdf){:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
+- Furkan Dikmen (2025). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1220){:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
 
 - **Furkan Dikmen** and Ömer Demirok (21 October 2025 (Estimated)). "Decomposing habituals". [_Nanosyntax and the Lexicalisation Algorithm_](https://global.oup.com/academic/product/nanosyntax-and-the-lexicalization-algorithm-9780198947134?cc=fr&lang=en&#){:target="_blank" rel="noopener noreferrer"}, edited by Pavel Caha, Karen De Clercq and Guido Vanden Wyngaerd. Oxford University Press.
 
