@@ -21,11 +21,32 @@ layout: default
 .section { margin: 2rem 0; }
 .section h2 { font-size: 1.15rem; margin: 0 0 .6rem; color: var(--ink); }
 
-.chips { display: flex; flex-wrap: wrap; gap: .4rem; }
-.chips .chip {
-  border: 1px solid var(--ring); border-radius: 999px; padding: .25rem .55rem; font-size: .92rem;
+/* --- Research interests: multi-column, no boxes --- */
+.interests {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: .35rem .75rem;
+  margin: .25rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+.interests li {
+  position: relative;
+  padding-left: 1rem;
+  color: var(--sub);
+  line-height: 1.45;
+}
+.interests li::before {
+  content: "";
+  position: absolute;
+  left: .3rem; top: .65rem;
+  width: .35rem; height: .35rem;
+  border-radius: 999px;
+  background: #94a3b8; /* soft slate dot */
+  opacity: .9;
 }
 
+/* --- Education timeline (kept) --- */
 .edu { position: relative; margin-top: .75rem; }
 .edu::before { content:""; position:absolute; left:.75rem; top:0; bottom:0; width:2px; background: var(--ring); }
 .edu-item { position: relative; padding: .35rem .75rem .35rem 2rem; margin: 0 0 .6rem; border-radius: .65rem; }
@@ -33,12 +54,12 @@ layout: default
 .edu-item .dot { position:absolute; left:.38rem; top:.8rem; width:.7rem; height:.7rem; border-radius:999px; background:#111827; box-shadow: 0 0 0 4px #fff; }
 .edu-item h3 { margin: 0; font-size:1rem; color: var(--ink); }
 .edu-item .meta { margin:.1rem 0 0; color: var(--sub); font-size:.95rem; }
-.edu-item ul { margin:.35rem 0 0 1rem; }
 
 @media (prefers-color-scheme: dark) {
-  :root { --ring:#334155; --ink:#e5e7eb; --sub:#94a3b8; }
+  :root { --ring:#334155; --ink:#e5e7eb; --sub:#cbd5e1; }
   .actions a:hover { background: #0b0f14; }
   .edu-item:hover { background: rgba(255,255,255,.04); }
+  .interests li::before { background:#64748b; }
 }
 </style>
 
@@ -52,27 +73,32 @@ layout: default
     You can find my writing and talks on the <a href="{{ '/publications/' | relative_url }}">Publications</a>
     and <a href="{{ '/presentations/' | relative_url }}">Talks</a> tabs.
   </p>
+  <div class="actions">
+    <a class="primary" href="{{ '/publications/' | relative_url }}">Publications</a>
+    <a class="primary" href="{{ '/presentations/' | relative_url }}">Presentations</a>
+    <!-- Optional: update/remove -->
+    <a href="{{ '/assets/cv.pdf' | relative_url }}">CV (PDF)</a>
+    <a href="mailto:furkan.dikmen@etu.univ-cotedazur.fr">Email</a>
+  </div>
 </section>
-
-
 
 <section class="section">
   <h2>Research interests</h2>
-  <div class="chips">
-    <span class="chip">Clausal complementation</span>
-    <span class="chip">Number semantics</span>
-    <span class="chip">Argument &amp; event structure</span>
-    <span class="chip">Passives</span>
-    <span class="chip">Pragmatics</span>
-    <span class="chip">Discourse particles</span>
-    <span class="chip">Nanosyntax</span>
-    <span class="chip">Case</span>
-    <span class="chip">Result state modification</span>
-    <span class="chip">Compositionality</span>
-    <span class="chip">Compounding</span>
-    <span class="chip">Nominalization</span>
-    <span class="chip">Diminutives / degree</span>
-  </div>
+  <ul class="interests">
+    <li>Clausal complementation</li>
+    <li>Number semantics</li>
+    <li>Argument &amp; event structure</li>
+    <li>Passives</li>
+    <li>Pragmatics</li>
+    <li>Discourse particles</li>
+    <li>Nanosyntax</li>
+    <li>Case</li>
+    <li>Result state modification</li>
+    <li>Compositionality</li>
+    <li>Compounding</li>
+    <li>Nominalization</li>
+    <li>Diminutives / degree</li>
+  </ul>
 </section>
 
 <section class="section">
@@ -80,19 +106,19 @@ layout: default
   <div class="edu">
     <div class="edu-item">
       <div class="dot" aria-hidden="true"></div>
-      <h3>Université Côte d’Azur <span class="chip">Present</span></h3>
+      <h3>Université Côte d’Azur <span style="font-weight:500;color:var(--sub)">— Present</span></h3>
       <p class="meta"><em>PhD(c) in Language Sciences</em></p>
     </div>
 
     <div class="edu-item">
       <div class="dot" aria-hidden="true"></div>
-      <h3>Boğaziçi University <span class="chip">2020</span></h3>
+      <h3>Boğaziçi University <span style="font-weight:500;color:var(--sub)">— 2020</span></h3>
       <p class="meta"><em>MA in Linguistics</em> · GPA: 4.00</p>
     </div>
 
     <div class="edu-item">
       <div class="dot" aria-hidden="true"></div>
-      <h3>Koç University <span class="chip">2017</span></h3>
+      <h3>Koç University <span style="font-weight:500;color:var(--sub)">— 2017</span></h3>
       <p class="meta"><em>BA in English Language &amp; Comparative Literature (summa cum laude)</em> · GPA: 4.00</p>
     </div>
   </div>
