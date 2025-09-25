@@ -194,3 +194,31 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 </script>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  // existing filter
+  const input = document.querySelector('#talk-filter');
+  if (input) {
+    input.addEventListener('input', e => {
+      const q = e.target.value.toLowerCase();
+      document.querySelectorAll('.talk').forEach(t => {
+        t.style.display = t.textContent.toLowerCase().includes(q) ? '' : 'none';
+      });
+    });
+  }
+
+  // NEW: auto-add "Talk" badge where none is specified
+  document.querySelectorAll('.talk h3').forEach(h3 => {
+    const hasBadge = h3.querySelector('.badge');
+    if (!hasBadge) {
+      const span = document.createElement('span');
+      span.className = 'badge';
+      span.textContent = 'Talk';
+      h3.appendChild(document.createTextNode(' ')); // add a space before badge
+      h3.appendChild(span);
+    }
+  });
+});
+</script>
+
