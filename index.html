@@ -126,3 +126,39 @@ layout: default
   </div>
 </section>
 
+
+.edu-item {
+  position: relative;
+  padding: .5rem .75rem .5rem 2.5rem; /* more left space for label */
+  margin: 0 0 1rem;
+  border-radius: .65rem;
+}
+.edu-item:hover { background: rgba(0,0,0,.03); }
+
+.edu-item .dot {
+  position:absolute; left:.75rem; top:1.1rem;
+  width:.7rem; height:.7rem;
+  border-radius:999px; background:#111827;
+  box-shadow: 0 0 0 4px #fff;
+}
+
+/* new year label */
+.year-label {
+  position:absolute;
+  left:-.1rem; top:.2rem;
+  background:#fff;
+  border:1px solid var(--ring);
+  border-radius:.35rem;
+  padding:.15rem .4rem;
+  font-size:.8rem;
+  font-weight:500;
+  z-index:1;
+}
+
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+  .year-label { background:#0b0f14; border-color:#334155; color:#e5e7eb; }
+  .edu-item:hover { background: rgba(255,255,255,.04); }
+}
+
+
