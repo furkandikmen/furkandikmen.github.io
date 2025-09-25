@@ -6,7 +6,8 @@ permalink: /publications/
 
 - Furkan Dikmen (2025). [Believing p, discovering ¬p: _meğer_ and epistemic shifts.](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1220){:target="_blank" rel="noopener noreferrer"}_Proceedings of Sinn und Bedeutung 29_.
 
-- **Furkan Dikmen** and Ömer Demirok (21 October 2025 (Estimated)). "Decomposing habituals". [_Nanosyntax and the Lexicalisation Algorithm_](https://global.oup.com/academic/product/nanosyntax-and-the-lexicalization-algorithm-9780198947134?cc=fr&lang=en&#){:target="_blank" rel="noopener noreferrer"}, edited by Pavel Caha, Karen De Clercq and Guido Vanden Wyngaerd. Oxford University Press.
+- **Furkan Dikmen** and Ömer Demirok (2025). "Decomposing habituals". [_Nanosyntax and the Lexicalisation Algorithm_](https://doi.org/10.1093/9780198947158.003.0004
+){:target="_blank" rel="noopener noreferrer"}, edited by Pavel Caha, Karen De Clercq and Guido Vanden Wyngaerd. Oxford University Press.
 
 - Pierre Ardisson, **Furkan Dikmen**, Friederike Moltmann and Kalle Müller (2025). [The role of plans for qua-events and their
 effects on part-structure](https://ebooks.iospress.nl/doi/10.3233/FAIA250485){:target="_blank" rel="noopener noreferrer"}._In the Proceedings of 15th edition of the International Conference on Formal Ontology in Information Systems (FOIS)_ IOS Press.
