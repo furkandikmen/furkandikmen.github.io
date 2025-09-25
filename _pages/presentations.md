@@ -36,14 +36,20 @@ permalink: /presentations/
 <section class="talks">
   <div class="year">2025</div>
 
-  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-    <div class="dot" aria-hidden="true"></div>
-    <h3 itemprop="name">French perception verbs are not equal <span class="badge">Talk</span></h3>
-    <p class="meta">
-      <strong itemprop="author">Furkan Dikmen</strong>, Lena Baunaz, Katerina Palasis (2025).
-      Going Romance 2025, Venice, Italy.
-    </p>
-  </article>
+<article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+  <div class="dot" aria-hidden="true"></div>
+  <h3 itemprop="name">
+    <a href="https://www.dmi.unict.it/fois2025/?page_id=713" target="_blank" rel="noopener">
+      French perception verbs are not equal
+    </a>
+    <span class="badge">Talk</span>
+  </h3>
+  <p class="meta">
+    <strong itemprop="author">Furkan Dikmen</strong>, Lena Baunaz, Katerina Palasis (2025).  
+    Going Romance 2025, Venice, Italy.
+  </p>
+</article>
+
 
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
@@ -54,13 +60,22 @@ permalink: /presentations/
     </p>
   </article>
 
-  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-    <div class="dot" aria-hidden="true"></div>
-    <h3 itemprop="name">Finding objects of experiences <span class="badge">Poster</span></h3>
-    <p class="meta">
-      <strong>Furkan Dikmen</strong> (2025). Sinn und Bedeutung 30 (SuB30), Frankfurt, Germany.
-    </p>
-  </article>
+
+<article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+  <div class="dot" aria-hidden="true"></div>
+  <h3 itemprop="name">
+    Finding objects of experiences <span class="badge">Poster</span>
+  </h3>
+  <p class="meta">
+    <strong>Furkan Dikmen</strong> (2025). Sinn und Bedeutung 30 (SuB30), Frankfurt, Germany.
+  </p>
+  <p class="links">
+    <a href="https://vicom.info/sub30-program-2/" target="_blank" rel="noopener noreferrer">Program</a>
+    ·
+    <a href="https://www.dropbox.com/scl/fi/u9qhvgh99m8mkt57sq881/Dikmen.pdf?dl=0&rlkey=jca4va70dirvzobcji8rnchne" target="_blank" rel="noopener noreferrer">Poster PDF</a>
+  </p>
+</article>
+
 
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
