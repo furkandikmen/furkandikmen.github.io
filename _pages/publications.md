@@ -89,11 +89,24 @@ permalink: /publications/
     <p class="links"><a href="https://doi.org/10.18492/dad.1448720" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
-  <article class="pub">
-    <div class="dot" aria-hidden="true"></div>
-    <h3>Türkçede orta ve nedensiz yapılar üzerine bir inceleme [An investigation of middle and anticausative constructions in Turkish] <span class="badge">Book chapter</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Sercan Karakaş, Sumru Özsoy. <em>Dilbilimde Güncel Tartışmalar-4</em>. Dilbilim Derneği Yayınları.</p>
-  </article>
+
+<article class="pub">
+  <div class="dot" aria-hidden="true"></div>
+  <h3>
+    Türkçede orta ve nedensiz yapılar üzerine bir inceleme 
+    [An investigation of middle and anticausative constructions in Turkish] 
+    <span class="badge">Book chapter</span>
+  </h3>
+  <p class="meta">
+    <strong>Furkan Dikmen</strong>, Sercan Karakaş, Sumru Özsoy. 
+    <em>Dilbilimde Güncel Tartışmalar-4</em>. Dilbilim Derneği Yayınları.
+  </p>
+  <p class="links">
+    <a href="mailto:furkan.dikmen@etu.univ-cotedazur.fr">Email me</a>
+  </p>
+</article>
+
+
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
