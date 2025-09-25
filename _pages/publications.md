@@ -5,6 +5,24 @@ permalink: /publications/
 ---
 
 <style>
+/* … lots of your existing CSS … */
+
+.links a {
+  display:inline-block;
+  margin:0 .45rem .35rem 0;
+  /* etc… */
+}
+
+/* 👇 add the new style here */
+.plain-email {
+  font-size: 0.85em;
+  color: #6b7280; /* muted gray */
+  margin-left: .5rem;
+  user-select: all; /* makes it easy to copy */
+}
+</style>
+
+<style>
 .toolbar{display:flex;justify-content:flex-end;margin:.5rem 0 1.25rem}
 #pub-filter{width:min(420px,100%);padding:.55rem .7rem;border:1px solid #d1d5db;border-radius:.5rem}
 
