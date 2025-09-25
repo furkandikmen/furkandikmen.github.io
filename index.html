@@ -42,7 +42,7 @@ layout: default
   left: .3rem; top: .65rem;
   width: .35rem; height: .35rem;
   border-radius: 999px;
-  background: #94a3b8; /* soft slate dot */
+  background: #94a3b8;
   opacity: .9;
 }
 
@@ -54,6 +54,13 @@ layout: default
 .edu-item .dot { position:absolute; left:.38rem; top:.8rem; width:.7rem; height:.7rem; border-radius:999px; background:#111827; box-shadow: 0 0 0 4px #fff; }
 .edu-item h3 { margin: 0; font-size:1rem; color: var(--ink); }
 .edu-item .meta { margin:.1rem 0 0; color: var(--sub); font-size:.95rem; }
+
+/* --- Footer email (now inside style) --- */
+.footer-email {
+  margin-top: 0.5rem;
+  font-size: 0.9em;
+  color: #6b7280; /* muted gray */
+}
 
 @media (prefers-color-scheme: dark) {
   :root { --ring:#334155; --ink:#e5e7eb; --sub:#cbd5e1; }
@@ -97,32 +104,27 @@ layout: default
   </ul>
 </section>
 
-
 <section class="section">
   <h2>Education</h2>
   <div class="edu">
-
     <div class="edu-item">
       <div class="dot" aria-hidden="true"></div>
       <div class="year-label">Present</div>
       <h3>Université Côte d’Azur</h3>
       <p class="meta"><em>PhD(c) in Language Sciences</em></p>
     </div>
-
     <div class="edu-item">
       <div class="dot" aria-hidden="true"></div>
       <div class="year-label">2020</div>
       <h3>Boğaziçi University</h3>
       <p class="meta"><em>MA in Linguistics</em> · GPA: 4.00</p>
     </div>
-
     <div class="edu-item">
       <div class="dot" aria-hidden="true"></div>
       <div class="year-label">2017</div>
       <h3>Koç University</h3>
       <p class="meta"><em>BA in English Language &amp; Comparative Literature (summa cum laude)</em> · GPA: 4.00</p>
     </div>
-
   </div>
 </section>
 
@@ -131,15 +133,3 @@ layout: default
     <span>{{ site.footer-email-plain }}</span>
   </div>
 {% endif %}
-
-
-.footer-email {
-  margin-top: 0.5rem;
-  font-size: 0.9em;
-  color: #6b7280; /* muted gray */
-}
-
-
-
-
-
