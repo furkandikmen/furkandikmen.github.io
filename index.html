@@ -2,39 +2,98 @@
 layout: default
 ---
 
-<html>
-<p><strong>Hello!</strong></p>
-<p>I am Furkan Dikmen. I am a PhD candidate in Language Sciences at Université Côte d'Azur, in France. I work as a doctoral candidate in CNRS, BCL, as part of the project IMMAGES, under the supervision of Friederike Moltmann. I am primarily interested in issues in semantics and pragmatics as well as morphosyntax. You can learn more about my previous and ongoing research at Publications tab.&nbsp;</p>
+<style>
+/* ====== Minimal inline styles for a clean academic homepage ====== */
+:root { --ring:#e5e7eb; --ink:#0f172a; --sub:#334155; }
+.hero { margin: 1.75rem 0 1.25rem; }
+.hero h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 .25rem; color: var(--ink); }
+.hero .subtitle { color: var(--sub); margin: 0 0 .75rem; }
+.hero p { margin: 0.25rem 0 0.75rem; color: var(--sub); }
 
-<p>&nbsp;</p>
+.actions { display: flex; flex-wrap: wrap; gap: .5rem; margin: .5rem 0 1.25rem; }
+.actions a, .actions button {
+  display: inline-block; padding: .5rem .8rem; border-radius: .5rem; text-decoration: none;
+  border: 1px solid var(--ring); font-size: .95rem;
+}
+.actions a:hover { background: #f8fafc; }
+.actions .primary { border-color: #d1d5db; }
 
-<p><strong>My research interests:</strong></p>
+.section { margin: 2rem 0; }
+.section h2 { font-size: 1.15rem; margin: 0 0 .6rem; color: var(--ink); }
 
-<p>Semantics of clausal complementation, semantics of number, argument/event structure, syntax/semantics of passive clauses, pragmatics, discourse structure/particles, nanosyntax, case, result state modification, compositionality, compounding and nominalization, semantics of diminutives/degree semantics</p>
-</html>
-<p><br></p>
+.chips { display: flex; flex-wrap: wrap; gap: .4rem; }
+.chips .chip {
+  border: 1px solid var(--ring); border-radius: 999px; padding: .25rem .55rem; font-size: .92rem;
+}
 
-<p><strong>Education:</strong></p>
-<ul>
-    <li><strong>Université Côte d'Azur,&nbsp;</strong>(Present)<ul>
-            <li><em>PhD(c) in Language Sciences</em>&nbsp;</li>
-        </ul>   
-     
-    </li>
-    <li><strong>Boğazi&ccedil;i University,&nbsp;</strong>(2020)<ul>
-            <li><em>MA in Linguistics</em></li>
-            <li>GPA: 4.00</li>
-        </ul>
-    </li>
-    <li><strong>Ko&ccedil; University,&nbsp;</strong>(2017)&nbsp;<ul>
-            <li><em>BA in English Language and Comparative Literature (summa cum laude)</em>&nbsp;</li>
-            <li>GPA: 4.00&nbsp;</li>
-        </ul>
-    </li>
-</ul>
+.edu { position: relative; margin-top: .75rem; }
+.edu::before { content:""; position:absolute; left:.75rem; top:0; bottom:0; width:2px; background: var(--ring); }
+.edu-item { position: relative; padding: .35rem .75rem .35rem 2rem; margin: 0 0 .6rem; border-radius: .65rem; }
+.edu-item:hover { background: rgba(0,0,0,.03); }
+.edu-item .dot { position:absolute; left:.38rem; top:.8rem; width:.7rem; height:.7rem; border-radius:999px; background:#111827; box-shadow: 0 0 0 4px #fff; }
+.edu-item h3 { margin: 0; font-size:1rem; color: var(--ink); }
+.edu-item .meta { margin:.1rem 0 0; color: var(--sub); font-size:.95rem; }
+.edu-item ul { margin:.35rem 0 0 1rem; }
 
+@media (prefers-color-scheme: dark) {
+  :root { --ring:#334155; --ink:#e5e7eb; --sub:#94a3b8; }
+  .actions a:hover { background: #0b0f14; }
+  .edu-item:hover { background: rgba(255,255,255,.04); }
+}
+</style>
 
+<section class="hero">
+  <h1>Hello — I’m Furkan Dikmen</h1>
+  <p class="subtitle">PhD candidate in Language Sciences, Université Côte d’Azur · Doctoral candidate, CNRS–BCL (IMMAGES project)</p>
+  <p>I work on semantics and pragmatics with links to morphosyntax. You can find my writing and talks below.</p>
 
+  <div class="actions">
+    <a class="primary" href="{{ '/publications/' | relative_url }}">Publications</a>
+    <a class="primary" href="{{ '/presentations/' | relative_url }}">Presentations</a>
+    <!-- Optional: update this path if you have a CV file -->
+    <a href="{{ '/assets/cv.pdf' | relative_url }}">CV (PDF)</a>
+    <a href="mailto:furkan.dikmen@etu.univ-cotedazur.fr">Email</a>
+  </div>
+</section>
 
+<section class="section">
+  <h2>Research interests</h2>
+  <div class="chips">
+    <span class="chip">Clausal complementation</span>
+    <span class="chip">Number semantics</span>
+    <span class="chip">Argument &amp; event structure</span>
+    <span class="chip">Passives</span>
+    <span class="chip">Pragmatics</span>
+    <span class="chip">Discourse particles</span>
+    <span class="chip">Nanosyntax</span>
+    <span class="chip">Case</span>
+    <span class="chip">Result state modification</span>
+    <span class="chip">Compositionality</span>
+    <span class="chip">Compounding</span>
+    <span class="chip">Nominalization</span>
+    <span class="chip">Diminutives / degree</span>
+  </div>
+</section>
 
+<section class="section">
+  <h2>Education</h2>
+  <div class="edu">
+    <div class="edu-item">
+      <div class="dot" aria-hidden="true"></div>
+      <h3>Université Côte d’Azur <span class="chip">Present</span></h3>
+      <p class="meta"><em>PhD(c) in Language Sciences</em></p>
+    </div>
 
+    <div class="edu-item">
+      <div class="dot" aria-hidden="true"></div>
+      <h3>Boğaziçi University <span class="chip">2020</span></h3>
+      <p class="meta"><em>MA in Linguistics</em> · GPA: 4.00</p>
+    </div>
+
+    <div class="edu-item">
+      <div class="dot" aria-hidden="true"></div>
+      <h3>Koç University <span class="chip">2017</span></h3>
+      <p class="meta"><em>BA in English Language &amp; Comparative Literature (summa cum laude)</em> · GPA: 4.00</p>
+    </div>
+  </div>
+</section>
