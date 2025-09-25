@@ -82,30 +82,24 @@ permalink: /publications/
 
   <div class="year">2024</div>
 
-  <article class="pub">
-    <div class="dot" aria-hidden="true"></div>
-    <h3>On the non-actuality inferences in Turkish avertives <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok. <em>Dilbilim Araştırmaları Dergisi (Journal of Linguistics Research)</em>..</p>
-    <p class="links"><a href="https://doi.org/10.18492/dad.1448720" target="_blank" rel="noopener noreferrer">DOI</a></p>
-  </article>
-
-
-<article class="pub">
+ <article class="pub">
   <div class="dot" aria-hidden="true"></div>
   <h3>
-    Türkçede orta ve nedensiz yapılar üzerine bir inceleme 
-    [An investigation of middle and anticausative constructions in Turkish] 
+    Türkçede orta ve nedensiz yapılar üzerine bir inceleme
+    [An investigation of middle and anticausative constructions in Turkish]
     <span class="badge">Book chapter</span>
   </h3>
   <p class="meta">
-    <strong>Furkan Dikmen</strong>, Sercan Karakaş, Sumru Özsoy. 
+    <strong>Furkan Dikmen</strong>, Sercan Karakaş, Sumru Özsoy (2024).
     <em>Dilbilimde Güncel Tartışmalar-4</em>. Dilbilim Derneği Yayınları.
   </p>
   <p class="links">
+    <!-- basic -->
     <a href="mailto:furkan.dikmen@etu.univ-cotedazur.fr">Email me</a>
+    <!-- or prefilled (optional) -->
+    <!-- <a href="mailto:furkan.dikmen@etu.univ-cotedazur.fr?subject=Requesting%20chapter%20PDF%20(Dilbilimde%20G%C3%BCncel%20Tart%C4%B1%C5%9Fmalar-4)&body=Hi%20Furkan%2C%0A%0ACould%20you%20share%20a%20copy%20of%20your%20chapter%20%E2%80%9CT%C3%BCrk%C3%A7ede%20orta%20ve%20nedensiz%20yap%C4%B1lar%20%E2%80%A6%E2%80%9D%3F%0A%0AThanks!">Request copy</a> -->
   </p>
 </article>
-
 
 
   <article class="pub">
