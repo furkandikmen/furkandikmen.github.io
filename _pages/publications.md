@@ -79,6 +79,13 @@ permalink: /publications/
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
+    <h3>Derivational Affixes as Heads and Phrases: Evidence from Turkish Diminutives  <span class="badge">Journal</span></h3>
+    <p class="meta"><strong>Ümit Atlamaz, and Furkan Dikmen</strong>. <em>Morphology (accepted for publication)</em>.</p>
+  </article>
+
+
+  <article class="pub">
+    <div class="dot" aria-hidden="true"></div>
     <h3>Believing p, discovering ¬p: <em>meğer</em> and epistemic shifts <span class="badge">Proceedings</span></h3>
     <p class="meta"><strong>Furkan Dikmen</strong>. <em>Proceedings of Sinn und Bedeutung 29</em>.</p>
     <p class="links"><a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1220" target="_blank" rel="noopener noreferrer">Open access</a></p>
