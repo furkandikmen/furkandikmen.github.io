@@ -178,7 +178,7 @@ permalink: /publications/
     <h3>Associative plurality in Turkish <span class="badge">Proceedings</span></h3>
     <p class="meta"><strong>Furkan Dikmen</strong>. <em>Proceedings of the 15th Workshop on Altaic Formal Linguistics (WAFL15)</em>, pp. 15–27.</p>
     <p class="links">
-      <a href="https://furkandikmen.com/assets/publications/Associative_plurality_in_Turkish.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+      <a href="https://furkandikmen.com/assets/publications/Associative_plurality_in_Turkish.pdf" target="_blank" rel="noopener noreferrer">Preprint</a>
       <a href="http://mitwpl.mit.edu/catalog/mwpl93/" target="_blank" rel="noopener noreferrer">Series</a>
     </p>
   </article>
