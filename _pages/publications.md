@@ -191,13 +191,6 @@ permalink: /publications/
     <p class="meta"><strong>Furkan Dikmen</strong>, Lena Baunaz, Anne-Li Demonie.</p>
   </article>
 
-  <article class="pub">
-    <div class="dot" aria-hidden="true"></div>
-    <h3>Affixes as Roots and Phrases: Diminutives in Turkish</h3>
-    <p class="meta">Ümit Atlamaz, <strong>Furkan Dikmen</strong>.</p>
-  </article>
-</section>
-
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const input = document.querySelector('#pub-filter');
