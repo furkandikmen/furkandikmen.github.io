@@ -65,7 +65,7 @@ permalink: /projects/
     </p>
     <p class="links">
       <a href="https://immages.hypotheses.org/1013" target="_blank" rel="noopener noreferrer">Workshop page</a>
-      <a href="https://furkandikmen.com/assets/presentations/find_predicates%281%29.pdf" target="_blank" rel="noopener noreferrer">Handout / slides (PDF)</a>
+      <a href="https://furkandikmen.com/assets/presentations/find_predicates%281%29.pdf" target="_blank" rel="noopener noreferrer">Handout</a>
     </p>
   </article>
 
@@ -79,7 +79,7 @@ permalink: /projects/
       <strong>Furkan Dikmen</strong> (18 Dec 2024). <em>Marking belief shifts</em>. Talk presented in IMMAGES seminars.
     </p>
     <p class="links">
-      <a href="https://furkandikmen.com/assets/presentations/immages_presentation_dec_18%20%282%29.pdf" target="_blank" rel="noopener noreferrer">Slides (PDF)</a>
+      <a href="https://furkandikmen.com/assets/presentations/immages_presentation_dec_18%20%282%29.pdf" target="_blank" rel="noopener noreferrer">Handout</a>
     </p>
   </article>
 </section>
