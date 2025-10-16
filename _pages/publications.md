@@ -88,7 +88,7 @@ permalink: /publications/
     <div class="dot" aria-hidden="true"></div>
     <h3>Believing p, discovering ¬p: <em>meğer</em> and epistemic shifts <span class="badge">Proceedings</span></h3>
     <p class="meta"><strong>Furkan Dikmen</strong>. <em>Proceedings of Sinn und Bedeutung 29</em>.</p>
-    <p class="links"><a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1220" target="_blank" rel="noopener noreferrer">Open access</a></p>
+    <p class="links"><a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1220" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
   <article class="pub">
@@ -154,7 +154,7 @@ permalink: /publications/
     <div class="dot" aria-hidden="true"></div>
     <h3>How can a language have double passives but lack antipassives? <span class="badge">Journal</span></h3>
     <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok, Balkız Öztürk. <em>Glossa: a journal of general linguistics</em>, 7(1). </p>
-    <p class="links"><a href="https://www.glossa-journal.org/article/id/6553/" target="_blank" rel="noopener noreferrer">Open access</a></p>
+    <p class="links"><a href="https://www.glossa-journal.org/article/id/6553/" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
   <div class="year">2021</div>
@@ -163,14 +163,14 @@ permalink: /publications/
     <div class="dot" aria-hidden="true"></div>
     <h3>Modifying result states in Turkish <span class="badge">Proceedings</span></h3>
     <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok. <em>Semantics and Linguistic Theory 31</em>, pp. 42–60.</p>
-    <p class="links"><a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003" target="_blank" rel="noopener noreferrer">Open access</a></p>
+    <p class="links"><a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/31.003" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Turkish palatalized consonants <span class="badge">Proceedings</span></h3>
     <p class="meta">Stefano Canalis, <strong>Furkan Dikmen</strong>. <em>Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+5)</em>, pp. 41–55.</p>
-    <p class="links"><a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/4781" target="_blank" rel="noopener noreferrer">Open access</a></p>
+    <p class="links"><a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/4781" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
   <article class="pub">
