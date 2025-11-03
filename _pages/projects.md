@@ -65,7 +65,7 @@ permalink: /projects/
     </p>
     <p class="links">
       <a href="https://immages.hypotheses.org/1013" target="_blank" rel="noopener noreferrer">Workshop page</a>
-      <a href="https://furkandikmen.com/assets/presentations/find_predicates%281%29.pdf" target="_blank" rel="noopener noreferrer">Handout</a>
+      <a href="https://furkandikmen.com/assets/presentations/tours_workshop (13).pdf" target="_blank" rel="noopener noreferrer">Handout</a>
     </p>
   </article>
   
