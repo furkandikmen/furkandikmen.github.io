@@ -53,6 +53,22 @@ permalink: /projects/
 </div>
 
 <section class="events">
+  <div class="year">2025</div>
+
+  <!-- Tours workshop -->
+  <article class="event">
+    <div class="dot" aria-hidden="true"></div>
+    <h3>IMMAGES Workshop — Tours (16–17 Oct 2025)</h3>
+    <p class="meta">
+      <strong>Furkan Dikmen</strong> (16 Oct 2025).
+      <em>Seemings, their content and as if clauses </em>. Talk presented at the IMMAGES workshop, Tours, France.
+    </p>
+    <p class="links">
+      <a href="https://immages.hypotheses.org/1013" target="_blank" rel="noopener noreferrer">Workshop page</a>
+      <a href="https://furkandikmen.com/assets/presentations/find_predicates%281%29.pdf" target="_blank" rel="noopener noreferrer">Handout</a>
+    </p>
+  </article>
+  
   <div class="year">2024</div>
 
   <!-- Tübingen workshop -->
