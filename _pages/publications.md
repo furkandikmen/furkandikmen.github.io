@@ -80,7 +80,8 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Derivational Affixes as Heads and Phrases: Evidence from Turkish Diminutives  <span class="badge">Journal</span></h3>
-    <p class="meta"><strong>Ümit Atlamaz, and Furkan Dikmen</strong>. <em>Morphology (accepted for publication)</em>.</p>
+    <p class="meta"><strong>Ümit Atlamaz, and Furkan Dikmen</strong>. <em>Morphology (2025)</em>.</p>
+     <p class="links"><a href="https://rdcu.be/eQufz" target="_blank" rel="noopener noreferrer">DOI</a></p>
   </article>
 
 
