@@ -62,6 +62,8 @@ permalink: /presentations/
     <p class="meta">
       <strong itemprop="author">Furkan Dikmen</strong>, Lena Baunaz, Katerina Palasis.
       Going Romance 2025, Venice, Italy.
+        <p class="links">
+      <a href="https://furkandikmen.com/assets/presentations/GoingRomance (6).pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     </p>
   </article>
 
