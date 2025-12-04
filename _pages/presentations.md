@@ -55,26 +55,28 @@ permalink: /presentations/
 
 <section class="talks">
   <div class="year">2025</div>
+<article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+  <div class="dot" aria-hidden="true"></div>
 
-  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-    <div class="dot" aria-hidden="true"></div>
-    <h3 itemprop="name">French perception verbs are not equal <span class="badge">Talk</span></h3>
-    <p class="meta">
-      <strong itemprop="author">Furkan Dikmen</strong>, Lena Baunaz, Katerina Palasis.
-      Going Romance 2025, Venice, Italy.
-        <p class="links">
-      <a href="https://furkandikmen.com/assets/presentations/GoingRomance (6).pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-    </p>
-  </article>
+  <h3 itemprop="name">
+    French perception verbs are not equal
+    <span class="badge">Talk</span>
+  </h3>
 
-  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-    <div class="dot" aria-hidden="true"></div>
-    <h3 itemprop="name">The role of plans for qua-events and their effects on part-structure <span class="badge">Paper</span></h3>
-    <p class="meta">
-      Pierre Ardisson, <strong>Furkan Dikmen</strong>, Friederike Moltmann, Kalle Müller.
-      15th International Conference on Formal Ontology in Information Systems (FOIS), Catania, Sicily.
-    </p>
-  </article>
+  <p class="meta">
+    <strong itemprop="author">Furkan Dikmen</strong>, Lena Baunaz, Katerina Palasis.
+    Going Romance 2025, Venice, Italy.
+  </p>
+
+  <p class="links">
+    <a href="https://furkandikmen.com/assets/presentations/GoingRomance (6).pdf"
+       target="_blank"
+       rel="noopener noreferrer">
+      PDF
+    </a>
+  </p>
+</article>
+
 
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
