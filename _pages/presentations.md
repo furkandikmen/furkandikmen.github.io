@@ -54,7 +54,7 @@ permalink: /presentations/
 </div>
 
 <section class="talks">
-  <div class="year">2025</div>
+  <div class="year">2026</div>
 <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
   <div class="dot" aria-hidden="true"></div>
 
@@ -68,6 +68,13 @@ permalink: /presentations/
       <a href="https://console34.github.io/program/" target="_blank" rel="noopener noreferrer">Program</a>
     </p>
   </article>
+
+
+
+<section class="talks">
+  <div class="year">2025</div>
+<article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+  <div class="dot" aria-hidden="true"></div>
 
   <h3 itemprop="name">
     French perception verbs are not equal
