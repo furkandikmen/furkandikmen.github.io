@@ -58,6 +58,17 @@ permalink: /presentations/
 <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
   <div class="dot" aria-hidden="true"></div>
 
+   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="dot" aria-hidden="true"></div>
+    <h3 itemprop="name">Seemings and beliefs <span class="badge">Talk</span></h3>
+    <p class="meta">
+      <strong>Furkan Dikmen</strong>. Conference of the Student Organization of Linguistics in Europe (ConSOLE34), Pavia, Italy
+    </p>
+    <p class="links">
+      <a href="https://console34.github.io/program/" target="_blank" rel="noopener noreferrer">Program</a>
+    </p>
+  </article>
+
   <h3 itemprop="name">
     French perception verbs are not equal
     <span class="badge">Talk</span>
