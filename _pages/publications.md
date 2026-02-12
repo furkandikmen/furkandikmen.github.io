@@ -75,6 +75,17 @@ permalink: /publications/
 </div>
 
 <section class="pubs">
+
+ <div class="year">2026</div>
+
+  <article class="pub">
+    <div class="dot" aria-hidden="true"></div>
+    <h3>Finding objects of experiences  <span class="badge">Journal</span></h3>
+    <p class="meta"><strong>Furkan Dikmen</strong>. <em>Morphology (2025)</em>.</p>
+     <p class="links"><a href="https://ling.auf.net/lingbuzz/009737" target="_blank" rel="noopener noreferrer">DOI</a></p>
+  </article>
+
+  
   <div class="year">2025</div>
 
   <article class="pub">
