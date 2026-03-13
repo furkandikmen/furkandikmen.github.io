@@ -3,6 +3,8 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+
+<style>
 .teaching-intro {
   margin-bottom: 2rem;
   font-size: 1.05rem;
@@ -59,6 +61,7 @@ permalink: /teaching/
 .term {
   margin-top: 0.4rem;
 }
+</style>
 
 <div class="teaching-intro">
   <p>
