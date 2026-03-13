@@ -4,6 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## Lecturer Morphopalooza Summer School @ Masaryk University in Brno
+- Course name TBA
+
 ## Instructor @ Boğaziçi University
 
 - Turkish Language and Culture Program Grammar Instructor 
