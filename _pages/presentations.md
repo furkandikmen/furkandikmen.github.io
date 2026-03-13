@@ -58,6 +58,14 @@ permalink: /presentations/
 <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
   <div class="dot" aria-hidden="true"></div>
 
+   <h3 itemprop="name">Greek and Turkish passives: A comparative approach <span class="badge">Talk</span></h3>
+    <p class="meta">
+     Nikos Angelopoulos, Ömer Demirok and <strong>Furkan Dikmen</strong>. ALF 1 (Atelier de linguistique formelle / Atelier for formal linguistics), Université Paris/CNRS, Structures Formelles du Langage, Paris, France 
+    </p>
+    <p class="links">
+      <a href="https://www.sfl.cnrs.fr/en/alf-1"_blank" rel="noopener noreferrer">Program</a>
+    </p>
+
     <h3 itemprop="name">Seemings and beliefs <span class="badge">Talk</span></h3>
     <p class="meta">
       <strong>Furkan Dikmen</strong>. Conference of the Student Organization of Linguistics in Europe (ConSOLE34), Pavia, Italy
