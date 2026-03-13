@@ -3,6 +3,62 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+.teaching-intro {
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+  color: #444;
+}
+
+.teaching-block {
+  margin-bottom: 2.5rem;
+}
+
+.teaching-block h2 {
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #e6e6e6;
+}
+
+.teaching-card {
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  border-radius: 14px;
+  padding: 1.2rem 1.4rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.teaching-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+.teaching-card h3 span,
+.place {
+  font-weight: 400;
+  color: #666;
+}
+
+.course-list li,
+.teaching-card li {
+  margin-bottom: 0.7rem;
+  line-height: 1.7;
+}
+
+.tag,
+.term {
+  display: inline-block;
+  margin: 0.2rem 0.35rem 0.2rem 0;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: #eef3ff;
+  color: #2f4a8a;
+  font-size: 0.88rem;
+  white-space: nowrap;
+}
+
+.term {
+  margin-top: 0.4rem;
+}
 
 <div class="teaching-intro">
   <p>
