@@ -163,7 +163,7 @@ permalink: /presentations/
       </p>
       <p class="links">
         <a href="https://www.sfl.cnrs.fr/en/alf-1" target="_blank" rel="noopener noreferrer">Program</a>
-          <a href="https://furkandikmen.com/assets/presentations/GoingRomance%20(6).pdf" target="_blank" rel="noopener noreferrer">Handout</a>
+          <a href="https://furkandikmen.com/assets/presentations/ALF_workshop_Paris.pdf" target="_blank" rel="noopener noreferrer">Handout</a>
       </p>
     </article>
 
