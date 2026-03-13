@@ -163,6 +163,7 @@ permalink: /presentations/
       </p>
       <p class="links">
         <a href="https://www.sfl.cnrs.fr/en/alf-1" target="_blank" rel="noopener noreferrer">Program</a>
+        <a href="https://www.sfl.cnrs.fr/en/alf-1" target="_blank" rel="noopener noreferrer">Handout</a>
       </p>
     </article>
 
