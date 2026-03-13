@@ -27,27 +27,38 @@ permalink: /teaching/
   border-radius: 14px;
   padding: 1.2rem 1.4rem;
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  margin-bottom: 1rem;
 }
 
-.teaching-card h3 {
-  margin-top: 0;
+.teaching-title {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.15rem;
+}
+
+.teaching-place {
+  margin: 0 0 0.9rem 0;
+  color: #666;
+  font-size: 0.98rem;
+}
+
+.teaching-card p {
+  margin-top: 0.35rem;
   margin-bottom: 0.6rem;
 }
 
-.teaching-card h3 span,
-.place {
-  font-weight: 400;
-  color: #666;
+.course-list,
+.role-list {
+  margin: 0;
+  padding-left: 1.2rem;
 }
 
 .course-list li,
-.teaching-card li {
+.role-list li {
   margin-bottom: 0.7rem;
   line-height: 1.7;
 }
 
-.tag,
-.term {
+.tag {
   display: inline-block;
   margin: 0.2rem 0.35rem 0.2rem 0;
   padding: 0.15rem 0.55rem;
@@ -56,10 +67,6 @@ permalink: /teaching/
   color: #2f4a8a;
   font-size: 0.88rem;
   white-space: nowrap;
-}
-
-.term {
-  margin-top: 0.4rem;
 }
 </style>
 
@@ -75,9 +82,10 @@ permalink: /teaching/
   <h2>Lecturer</h2>
 
   <div class="teaching-card">
-    <h3>Morphopalooza Summer School <span>Masaryk University, Brno</span></h3>
+    <h3 class="teaching-title">Morphopalooza Summer School</h3>
+    <p class="teaching-place">Masaryk University, Brno</p>
     <p><strong>Course:</strong> TBA</p>
-    <p class="term">Summer 2026</p>
+    <span class="tag">Summer 2026</span>
   </div>
 </section>
 
@@ -85,13 +93,13 @@ permalink: /teaching/
   <h2>Instructor</h2>
 
   <div class="teaching-card">
-    <h3>Turkish Language and Culture Program</h3>
-    <ul>
+    <h3 class="teaching-title">Turkish Language and Culture Program</h3>
+    <p class="teaching-place">Boğaziçi University</p>
+    <ul class="role-list">
       <li>Reading and Writing Instructor <span class="tag">Summer 2025</span></li>
       <li>Grammar Instructor <span class="tag">Summer 2023</span></li>
       <li>Speaking Instructor <span class="tag">Summer 2022</span></li>
     </ul>
-    <p class="place">Boğaziçi University</p>
   </div>
 </section>
 
@@ -99,7 +107,8 @@ permalink: /teaching/
   <h2>Teaching Assistant</h2>
 
   <div class="teaching-card">
-    <h3>Boğaziçi University</h3>
+    <h3 class="teaching-title">Teaching Assistantships</h3>
+    <p class="teaching-place">Boğaziçi University</p>
     <ul class="course-list">
       <li>
         <strong>LING101:</strong> Introduction to Language and Linguistics I
