@@ -200,7 +200,7 @@ permalink: /publications/
   <article class="pub">
     <div class="dot" aria-hidden="true"></div>
     <h3>Attitudes of fear and expletive negation in French</h3>
-    <p class="meta"><strong>Furkan Dikmen</strong>, Lena Baunaz, Anne-Li Demonie.</p>
+    <p class="meta"><strong>Furkan Dikmen</strong> and Lena Baunaz, to be submitted to the volume Aspect and Mood in Studia Linguistica</p>
   </article>
 
 <script>
