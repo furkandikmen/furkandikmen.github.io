@@ -159,7 +159,7 @@ permalink: /presentations/
       <p class="meta">
         Nikos Angelopoulos, Ömer Demirok and <strong>Furkan Dikmen</strong>.
         ALF 1 (Atelier de linguistique formelle / Atelier for formal linguistics),
-        Université Paris/CNRS, Structures Formelles du Langage, Paris, France.
+        Université Paris 8/CNRS, Structures Formelles du Langage, Paris, France.
       </p>
       <p class="links">
         <a href="https://www.sfl.cnrs.fr/en/alf-1" target="_blank" rel="noopener noreferrer">Program</a>
