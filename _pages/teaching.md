@@ -84,7 +84,7 @@ permalink: /teaching/
   <div class="teaching-card">
     <h3 class="teaching-title">Morphopalooza Summer School</h3>
     <p class="teaching-place">Masaryk University, Brno</p>
-    <p><strong>Course:</strong> TBA</p>
+    <p><strong>Course:</strong> Natural Language Ontology: How morphology helps (and doesn't) </p>
     <span class="tag">Summer 2026</span>
   </div>
 </section>
