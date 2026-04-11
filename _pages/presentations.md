@@ -161,7 +161,7 @@ permalink: /presentations/
     </p>
     <p class="links">
       <a href="https://turkicworkshop.github.io/tu11/program.html" target="_blank" rel="noopener noreferrer">Program</a>
-      <a href="https://assets/presentations/Tu+11.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+      <a href="https://furkandikmen.com/assets/presentations/ALF_workshop_Paris.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     </p>
   </article>
 
