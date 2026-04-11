@@ -155,7 +155,7 @@ permalink: /presentations/
 
     <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
-    <h3 itemprop="name">Reporting experiences: _(gibi) gel_ in Turkish. <span class="badge">Talk</span></h3>
+    <h3 itemprop="name">Reporting experiences: (gibi) gel in Turkish. <span class="badge">Talk</span></h3>
     <p class="meta">
       <strong>Furkan Dikmen</strong>. TU+11 (Workshop on Turkic and Languages in Contact with Turkic (TU+)), MIT, Cambridge, USA.
     </p>
