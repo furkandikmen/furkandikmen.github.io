@@ -239,6 +239,16 @@ permalink: /publications/
 
     <div class="year">2024</div>
 
+   <article class="pub">
+      <div class="dot" aria-hidden="true"></div>
+      <h3>On the non-actuality inferences in Turkish avertives <span class="badge">Journal</span></h3>
+      <p class="meta"><strong>Furkan Dikmen</strong>, Ömer Demirok. <em>Journal of Linguistics Research</em>.</p>
+      <p class="links">
+        <a href="https://doi.org/10.18492/dad.1448720" target="_blank" rel="noopener noreferrer">DOI</a>
+      </p>
+    </article>
+
+    
     <article class="pub">
       <div class="dot" aria-hidden="true"></div>
       <h3>
