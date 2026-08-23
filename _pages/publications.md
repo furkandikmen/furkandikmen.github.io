@@ -190,13 +190,19 @@ permalink: /publications/
 
     <div class="year">2026</div>
 
-   <article class="pub">
+<article class="pub">
   <div class="dot" aria-hidden="true"></div>
-  <h3>Finding objects of experiences <span class="badge">Proceedings</span></h3>
+
+  <h3>
+    Finding objects of experiences
+    <span class="badge">Proceedings</span>
+  </h3>
+
   <p class="meta">
     <strong>Furkan Dikmen</strong>.
-    <em>the Proceedings of Sinn und Bedeutung30 (2026)</em>.
+    <em>the Proceedings of Sinn und Bedeutung 30 (2026)</em>.
   </p>
+
   <p class="links">
     <a
       href="https://doi.org/10.18148/sub/2026.v30.1333"
