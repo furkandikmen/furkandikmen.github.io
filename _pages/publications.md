@@ -193,7 +193,7 @@ permalink: /publications/
     <article class="pub">
       <div class="dot" aria-hidden="true"></div>
       <h3>Finding objects of experiences <span class="badge">Proceedings</span></h3>
-      <p class="meta"><strong>Furkan Dikmen</strong>. <em>to appear in the Proceedings of Sinn und Bedeutung30 (2026)</em>.</p>
+      <p class="meta"><strong>Furkan Dikmen</strong>. <em>the Proceedings of Sinn und Bedeutung30 (2026)</em>.</p>
       <p class="links">
         <a href="https://ling.auf.net/lingbuzz/009737" target="_blank" rel="noopener noreferrer">Preprint</a>
       </p>
