@@ -96,7 +96,6 @@ permalink: /teaching/
     <h3 class="teaching-title">Turkish Language and Culture Program</h3>
     <p class="teaching-place">Boğaziçi University</p>
     <ul class="role-list">
-      <li>Reading and Writing Instructor <span class="tag">Summer 2025</span></li>
       <li>Grammar Instructor <span class="tag">Summer 2023</span></li>
       <li>Speaking Instructor <span class="tag">Summer 2022</span></li>
     </ul>
