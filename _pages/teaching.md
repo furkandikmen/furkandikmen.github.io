@@ -83,7 +83,7 @@ permalink: /teaching/
   <h2>Instructor</h2>
 
   <div class="teaching-card">
-    <h3 class="teaching-title">COGS500.01</h3>
+    <h3 class="teaching-title">COGS500.01-Introduction to cognitive science</h3>
     <p class="teaching-place">Boğaziçi University</p>
     <span class="tag">Fall 2026</span>
   </div>
