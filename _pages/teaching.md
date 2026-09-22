@@ -1,4 +1,3 @@
-```html
 ---
 layout: page
 title: Teaching
@@ -135,4 +134,3 @@ permalink: /teaching/
         <span class="tag">Spring 2020</span>
         <span class="tag">Spring 2021</span>
         <span class="tag">Spring 2022<
-```
