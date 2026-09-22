@@ -1,3 +1,4 @@
+```html
 ---
 layout: page
 title: Teaching
@@ -72,25 +73,21 @@ permalink: /teaching/
 
 <div class="teaching-intro">
   <p>
-    I have taught courses in linguistics and Turkish language instruction at
-    Boğaziçi University, and I will serve as a lecturer at the Morphopalooza
-    Summer School at Masaryk University in 2026.
+    I am teaching COGS500.01 at Boğaziçi University in Fall 2026.
+    I have previously taught courses in linguistics and Turkish language
+    instruction at Boğaziçi University and served as a lecturer at the
+    Morphopalooza Summer School at Masaryk University in 2026.
   </p>
 </div>
 
 <section class="teaching-block">
-  <h2>Lecturer</h2>
+  <h2>Instructor</h2>
 
   <div class="teaching-card">
-    <h3 class="teaching-title">Morphopalooza Summer School</h3>
-    <p class="teaching-place">Masaryk University, Brno</p>
-    <p><strong>Course:</strong> Natural Language Ontology: How morphology helps (and doesn't) </p>
-    <span class="tag">Summer 2026</span>
+    <h3 class="teaching-title">COGS500.01</h3>
+    <p class="teaching-place">Boğaziçi University</p>
+    <span class="tag">Fall 2026</span>
   </div>
-</section>
-
-<section class="teaching-block">
-  <h2>Instructor</h2>
 
   <div class="teaching-card">
     <h3 class="teaching-title">Turkish Language and Culture Program</h3>
@@ -99,6 +96,20 @@ permalink: /teaching/
       <li>Grammar Instructor <span class="tag">Summer 2023</span></li>
       <li>Speaking Instructor <span class="tag">Summer 2022</span></li>
     </ul>
+  </div>
+</section>
+
+<section class="teaching-block">
+  <h2>Lecturer</h2>
+
+  <div class="teaching-card">
+    <h3 class="teaching-title">Morphopalooza Summer School</h3>
+    <p class="teaching-place">Masaryk University, Brno</p>
+    <p>
+      <strong>Course:</strong>
+      Natural Language Ontology: How morphology helps (and doesn't)
+    </p>
+    <span class="tag">Summer 2026</span>
   </div>
 </section>
 
@@ -123,32 +134,5 @@ permalink: /teaching/
         <span class="tag">Spring 2019</span>
         <span class="tag">Spring 2020</span>
         <span class="tag">Spring 2021</span>
-        <span class="tag">Spring 2022</span>
-      </li>
-      <li>
-        <strong>LING203:</strong> Syntax
-        <span class="tag">Fall 2019</span>
-        <span class="tag">Fall 2022</span>
-      </li>
-      <li>
-        <strong>LING305:</strong> Semantics
-        <span class="tag">Fall 2019</span>
-        <span class="tag">Fall 2021</span>
-        <span class="tag">Fall 2022</span>
-      </li>
-      <li>
-        <strong>LING313:</strong> Phonology and Morphology of Modern Turkish
-        <span class="tag">Fall 2020</span>
-      </li>
-      <li>
-        <strong>LING314:</strong> Syntax and Semantics of Modern Turkish
-        <span class="tag">Fall 2020</span>
-        <span class="tag">Fall 2023</span>
-      </li>
-      <li>
-        <strong>LING340:</strong> Advanced Syntax
-        <span class="tag">Spring 2021</span>
-      </li>
-    </ul>
-  </div>
-</section>
+        <span class="tag">Spring 2022<
+```
