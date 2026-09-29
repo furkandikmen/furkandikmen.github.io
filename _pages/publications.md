@@ -351,12 +351,24 @@ permalink: /publications/
       </p>
     </article>
 
-    <div class="year">Work in progress</div>
+    <div class="year">Under review</div>
 
     <article class="pub">
       <div class="dot" aria-hidden="true"></div>
-      <h3>Attitudes of fear and expletive negation in French</h3>
-      <p class="meta"><strong>Furkan Dikmen</strong> and Lena Baunaz, to be submitted to the volume Aspect and Mood in Studia Linguistica</p>
+      <h3>Conclusions, requirements, intentions: what’s in a decision? </h3>
+      <p class="meta"><strong>Furkan Dikmen</strong>, Lena Baunaz and Genoveva Puskás, squib under review in Glossa</p>
+    </article>
+
+      <article class="pub">
+      <div class="dot" aria-hidden="true"></div>
+      <h3>What you see is not what you hear</h3>
+      <p class="meta"><strong>Furkan Dikmen</strong> and Lena Baunaz, squib under review in Glossa</p>
+    </article>
+
+    <article class="pub">
+      <div class="dot" aria-hidden="true"></div>
+      <h3>Truth and realization in attitudes: French fear clauses</h3>
+      <p class="meta"><strong>Furkan Dikmen</strong> and Lena Baunaz, under review in Studia Linguistica for a special issue</p>
     </article>
 
   </section>
