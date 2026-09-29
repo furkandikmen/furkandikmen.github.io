@@ -356,7 +356,7 @@ permalink: /publications/
     <article class="pub">
       <div class="dot" aria-hidden="true"></div>
       <h3>Conclusions, requirements, intentions: what’s in a decision? </h3>
-      <p class="meta"><strong>Furkan Dikmen</strong>, Lena Baunaz and Genoveva Puskás, squib under review in Languages</p>
+      <p class="meta"><strong>Furkan Dikmen</strong>, Lena Baunaz and Genoveva Puskás, under review in Languages</p>
     </article>
 
       <article class="pub">
