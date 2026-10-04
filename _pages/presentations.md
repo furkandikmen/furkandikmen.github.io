@@ -183,89 +183,129 @@ permalink: /presentations/
 
   <section class="talks">
 
-    <div class="year-group">
-      <div class="year">2026</div>
+   <div class="year-group">
+  <div class="year">2026</div>
 
-     <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-  <div class="dot" aria-hidden="true"></div>
+  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="dot" aria-hidden="true"></div>
 
-  <h3 itemprop="name">
-    Toward a typology of implicit arguments: Evidence from the Turkish passive.
-    <span class="badge">Talk</span>
-  </h3>
+    <h3 itemprop="name">
+      Toward a typology of implicit arguments: Evidence from the Turkish passive.
+      <span class="badge">Talk</span>
+    </h3>
 
-  <p class="meta">
-    Nikos Angelopoulos, Ömer Demirok and <strong>Furkan Dikmen</strong>.
-    Syntax and Semantics of Implicit Arguments (ImpArg), University of Graz, Austria.
-  </p>
+    <p class="meta">
+      Nikos Angelopoulos, Ömer Demirok and <strong>Furkan Dikmen</strong>.
+      Syntax and Semantics of Implicit Arguments (ImpArg), University of Graz, Austria.
+    </p>
 
-  <p class="links">
-    <a href="https://sites.google.com/view/imparg-graz/program?authuser=0"
-       target="_blank"
-       rel="noopener noreferrer">Program</a>
+    <p class="links">
+      <a href="https://sites.google.com/view/imparg-graz/program?authuser=0"
+         target="_blank"
+         rel="noopener noreferrer">Program</a>
 
-    <a href="https://drive.google.com/file/d/1wJUmirQhk2XdpIGRp5ROk4INtmntYsGA/view"
-       target="_blank"
-       rel="noopener noreferrer">PDF</a>
-  </p>
+      <a href="https://drive.google.com/file/d/1wJUmirQhk2XdpIGRp5ROk4INtmntYsGA/view"
+         target="_blank"
+         rel="noopener noreferrer">PDF</a>
+    </p>
+  </article>
 
-<article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-  <div class="dot" aria-hidden="true"></div>
 
-  <h3 itemprop="name">
-    Truth and realization in propositional attitudes: French fear-clauses.
-    <span class="badge">Talk</span>
-  </h3>
+  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="dot" aria-hidden="true"></div>
 
-  <p class="meta">
-    <strong>Furkan Dikmen</strong> and Lena Baunaz.
-    Rencontres autour de la linguistique formelle (RALFe 2026), Paris, France.
-  </p>
+    <h3 itemprop="name">
+      Truth and realization in propositional attitudes: French fear-clauses.
+      <span class="badge">Talk</span>
+    </h3>
 
-  <p class="links">
-    <a href="https://sites.google.com/view/ralfe2026/programme?authuser=0"
-       target="_blank"
-       rel="noopener noreferrer">Program</a>
-  </p>
-</article>
+    <p class="meta">
+      <strong>Furkan Dikmen</strong> and Lena Baunaz.
+      Rencontres autour de la linguistique formelle (RALFe 2026), Paris, France.
+    </p>
 
-      <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-        <div class="dot" aria-hidden="true"></div>
-        <h3 itemprop="name">Reporting experiences: (gibi) gel in Turkish. <span class="badge">Talk</span></h3>
-        <p class="meta">
-          <strong>Furkan Dikmen</strong>. TU+11 (Workshop on Turkic and Languages in Contact with Turkic (TU+)), MIT, Cambridge, USA.
-        </p>
-        <p class="links">
-          <a href="https://turkicworkshop.github.io/tu11/program.html" target="_blank" rel="noopener noreferrer">Program</a>
-          <a href="https://furkandikmen.com/assets/presentations/TU_11_conference (3).pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-        </p>
-      </article>
+    <p class="links">
+      <a href="https://sites.google.com/view/ralfe2026/programme?authuser=0"
+         target="_blank"
+         rel="noopener noreferrer">Program</a>
+    </p>
+  </article>
 
-      <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-        <div class="dot" aria-hidden="true"></div>
-        <h3 itemprop="name">Greek and Turkish passives: A comparative approach <span class="badge">Talk</span></h3>
-        <p class="meta">
-          Nikos Angelopoulos, Ömer Demirok and <strong>Furkan Dikmen</strong>.
-          ALF 1 (Atelier de linguistique formelle / Atelier for formal linguistics),
-          Université Paris 8/CNRS, Structures Formelles du Langage, Paris, France.
-        </p>
-        <p class="links">
-          <a href="https://www.sfl.cnrs.fr/en/alf-1" target="_blank" rel="noopener noreferrer">Program</a>
-          <a href="https://furkandikmen.com/assets/presentations/ALF_workshop_Paris.pdf" target="_blank" rel="noopener noreferrer">Handout</a>
-        </p>
-      </article>
 
-      <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-        <div class="dot" aria-hidden="true"></div>
-        <h3 itemprop="name">Seemings and beliefs <span class="badge">Talk</span></h3>
-        <p class="meta">
-          <strong>Furkan Dikmen</strong>. Conference of the Student Organization of Linguistics in Europe (ConSOLE34), Pavia, Italy.
-        </p>
-        <p class="links">
-          <a href="https://console34.github.io/program/" target="_blank" rel="noopener noreferrer">Program</a>
-        </p>
-      </article>
-    </div>
+  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="dot" aria-hidden="true"></div>
+
+    <h3 itemprop="name">
+      Reporting experiences: (gibi) gel in Turkish.
+      <span class="badge">Talk</span>
+    </h3>
+
+    <p class="meta">
+      <strong>Furkan Dikmen</strong>.
+      TU+11 (Workshop on Turkic and Languages in Contact with Turkic (TU+)),
+      MIT, Cambridge, USA.
+    </p>
+
+    <p class="links">
+      <a href="https://turkicworkshop.github.io/tu11/program.html"
+         target="_blank"
+         rel="noopener noreferrer">Program</a>
+
+      <a href="https://furkandikmen.com/assets/presentations/TU_11_conference (3).pdf"
+         target="_blank"
+         rel="noopener noreferrer">PDF</a>
+    </p>
+  </article>
+
+
+  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="dot" aria-hidden="true"></div>
+
+    <h3 itemprop="name">
+      Greek and Turkish passives: A comparative approach
+      <span class="badge">Talk</span>
+    </h3>
+
+    <p class="meta">
+      Nikos Angelopoulos, Ömer Demirok and <strong>Furkan Dikmen</strong>.
+      ALF 1 (Atelier de linguistique formelle / Atelier for formal linguistics),
+      Université Paris 8/CNRS, Structures Formelles du Langage, Paris, France.
+    </p>
+
+    <p class="links">
+      <a href="https://www.sfl.cnrs.fr/en/alf-1"
+         target="_blank"
+         rel="noopener noreferrer">Program</a>
+
+      <a href="https://furkandikmen.com/assets/presentations/ALF_workshop_Paris.pdf"
+         target="_blank"
+         rel="noopener noreferrer">Handout</a>
+    </p>
+  </article>
+
+
+  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="dot" aria-hidden="true"></div>
+
+    <h3 itemprop="name">
+      Seemings and beliefs
+      <span class="badge">Talk</span>
+    </h3>
+
+    <p class="meta">
+      <strong>Furkan Dikmen</strong>.
+      Conference of the Student Organization of Linguistics in Europe
+      (ConSOLE34), Pavia, Italy.
+    </p>
+
+    <p class="links">
+      <a href="https://console34.github.io/program/"
+         target="_blank"
+         rel="noopener noreferrer">Program</a>
+    </p>
+  </article>
+
+</div>
 
     <div class="year-group">
       <div class="year">2025</div>
