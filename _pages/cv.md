@@ -20,7 +20,7 @@ permalink: /cv/
 }
 </style>
 
-<a href="https://furkandikmen.com/assets/CV/CV-Dikmen.pdf" target="_blank" rel="noopener">
+<a href="https://furkandikmen.com/assets/CV-dikmen.pdf" target="_blank" rel="noopener">
   <i class="fa-solid fa-file-pdf cv-icon"></i>
 </a>
 
