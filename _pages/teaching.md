@@ -123,46 +123,85 @@ permalink: /teaching/
 
       <li>
         <strong>LING101:</strong> Introduction to Language and Linguistics I
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
+        <span class="tag">Fall 2019</span>
+        <span class="tag">Fall 2020</span>
+        <span class="tag">Spring 2021</span>
+        <span class="tag">Fall 2021</span>
+        <span class="tag">Spring 2022</span>
+        <span class="tag">Spring 2023</span>
       </li>
 
       <li>
         <strong>LING102:</strong> Introduction to Language and Linguistics II
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
+        <span class="tag">Spring 2021</span>
+        <span class="tag">Spring 2022</span>
+        <span class="tag">Spring 2023</span>
+      </li>
+
+      <li>
+        <strong>LING201:</strong> Phonology
+        <span class="tag">Fall 2021</span>
+      </li>
+
+      <li>
+        <strong>LING202:</strong> Morphology
+        <span class="tag">Spring 2020</span>
+        <span class="tag">Spring 2021</span>
       </li>
 
       <li>
         <strong>LING203:</strong> Syntax
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
+        <span class="tag">Fall 2019</span>
+        <span class="tag">Fall 2022</span>
+        <span class="tag">Fall 2023</span>
       </li>
 
       <li>
         <strong>LING305:</strong> Semantics
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
+        <span class="tag">Fall 2019</span>
+        <span class="tag">Fall 2020</span>
+        <span class="tag">Fall 2021</span>
+        <span class="tag">Fall 2022</span>
+        <span class="tag">Fall 2023</span>
       </li>
 
       <li>
         <strong>LING313:</strong> Phonology and Morphology of Modern Turkish
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
+        <span class="tag">Fall 2020</span>
+        <span class="tag">Fall 2021</span>
+        <span class="tag">Fall 2022</span>
       </li>
 
       <li>
         <strong>LING314:</strong> Syntax and Semantics of Modern Turkish
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
+        <span class="tag">Spring 2020</span>
+        <span class="tag">Spring 2022</span>
+        <span class="tag">Spring 2023 (2 sections)</span>
       </li>
 
       <li>
         <strong>LING340:</strong> Advanced Syntax
-        <span class="tag">TERM</span>
-        <span class="tag">TERM</span>
+        <span class="tag">Spring 2021</span>
+        <span class="tag">Fall 2021</span>
+      </li>
+
+
+      <li>
+        <strong>TID101:</strong> Elementary Turkish Sign Language I
+        <span class="tag">Fall 2020 (2 sections)</span>
+        <span class="tag">Spring 2021</span>
+        <span class="tag">Fall 2021 (2 sections)</span>
+        <span class="tag">Spring 2022</span>
+        <span class="tag">Fall 2022 (2 sections)</span>
+        <span class="tag">Spring 2023</span>
+        <span class="tag">Fall 2023 (2 sections)</span>
+      </li>
+
+      <li>
+        <strong>TID102:</strong> Elementary Turkish Sign Language II
+        <span class="tag">Spring 2021</span>
+        <span class="tag">Spring 2022</span>
+        <span class="tag">Spring 2023</span>
       </li>
 
     </ul>
