@@ -208,9 +208,8 @@ permalink: /presentations/
        target="_blank"
        rel="noopener noreferrer">PDF</a>
   </p>
-</article>
 
- <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+<article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
   <div class="dot" aria-hidden="true"></div>
 
   <h3 itemprop="name">
@@ -221,6 +220,16 @@ permalink: /presentations/
   <p class="meta">
     <strong>Furkan Dikmen</strong> and Lena Baunaz.
     Rencontres autour de la linguistique formelle (RALFe 2026), Paris, France.
+  </p>
+
+  <p class="links">
+    <a href="PROGRAM-LINK-HERE"
+       target="_blank"
+       rel="noopener noreferrer">Program</a>
+
+    <a href="PDF-LINK-HERE"
+       target="_blank"
+       rel="noopener noreferrer">PDF</a>
   </p>
 </article>
 
