@@ -3,10 +3,7 @@ layout: default
 ---
 
 <style>
-/* ====== Stable light homepage ======
-   Keeps this page readable regardless of the visitor's OS theme.
-   This is better than partial dark-mode styling on a light site layout.
-*/
+/* ====== Stable light homepage ====== */
 
 :root {
   color-scheme: light;
@@ -23,21 +20,43 @@ layout: default
   color: var(--text);
 }
 
-/* Hero */
+/* ====== Hero ====== */
+
 .hero {
-  margin: 1.75rem 0 1.25rem;
+  margin: 1.75rem 0 2rem;
+}
+
+.hero-inner {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.hero-photo {
+  flex: 0 0 auto;
+}
+
+.hero-photo img {
+  display: block;
+  width: 190px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.hero-text {
+  flex: 1;
 }
 
 .hero h1 {
   font-size: 2rem;
   line-height: 1.2;
-  margin: 0 0 0.25rem;
+  margin: 0 0 0.35rem;
   color: var(--ink);
 }
 
 .hero .subtitle {
   color: var(--sub);
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.85rem;
   line-height: 1.55;
 }
 
@@ -47,12 +66,14 @@ layout: default
   line-height: 1.6;
 }
 
-/* Buttons / links */
+
+/* ====== Buttons / links ====== */
+
 .actions {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin: 0.5rem 0 1.25rem;
+  margin: 0.5rem 0 0;
 }
 
 .actions a,
@@ -76,7 +97,9 @@ layout: default
   border-color: #cfd8e3;
 }
 
-/* Sections */
+
+/* ====== Sections ====== */
+
 .section {
   margin: 2rem 0;
 }
@@ -95,7 +118,9 @@ layout: default
   max-width: 72ch;
 }
 
-/* Education timeline */
+
+/* ====== Education timeline ====== */
+
 .edu {
   position: relative;
   margin-top: 0.75rem;
@@ -152,91 +177,149 @@ layout: default
   color: var(--sub);
 }
 
-/* Footer email */
+
+/* ====== Footer email ====== */
+
 .footer-email {
   margin-top: 0.5rem;
   font-size: 0.875rem;
   color: var(--sub);
 }
+
+
+/* ====== Mobile layout ====== */
+
+@media (max-width: 650px) {
+  .hero-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.25rem;
+  }
+
+  .hero-photo img {
+    width: 160px;
+  }
+}
+
 </style>
 
-<div class="homepage">
-  <section class="hero">
-    <h1>Hello! I’m Furkan Dikmen</h1>
-    </p>
 
-    <div class="actions">
-      <a class="primary" href="{{ '/publications/' | relative_url }}">Publications</a>
-      <a class="primary" href="{{ '/presentations/' | relative_url }}">Presentations</a>
+<div class="homepage">
+
+  <section class="hero">
+    <div class="hero-inner">
+
+      <div class="hero-photo">
+        <img
+          src="{{ '/images/PROFILEE.jpg' | relative_url }}"
+          alt="Furkan Dikmen">
+      </div>
+
+      <div class="hero-text">
+        <h1>Hello! I’m Furkan Dikmen</h1>
+
+        <p class="subtitle">
+          CNRS / Université Côte d’Azur
+        </p>
+
+        <div class="actions">
+          <a class="primary"
+             href="{{ '/publications/' | relative_url }}">
+            Publications
+          </a>
+
+          <a class="primary"
+             href="{{ '/presentations/' | relative_url }}">
+            Presentations
+          </a>
+        </div>
+      </div>
+
     </div>
   </section>
+
 
   <section class="section">
     <h2>Research interests</h2>
+
     <p>
-      My research focuses on natural language ontology and compositional semantics, with a
-      particular specialization in object-based truthmaker semantics. I also work on
-      morphosyntactic questions, especially insofar as they relate to semantic
+      My research focuses on natural language ontology and compositional semantics,
+      with a particular specialization in object-based truthmaker semantics. I also
+      work on morphosyntactic questions, especially insofar as they relate to semantic
       interpretation, including in frameworks such as Distributed Morphology and
-      Nanosyntax. My empirical domains include clausal complementation, argument and event
-      structure, passives, discourse particles, case, and diminutives.
+      Nanosyntax. My empirical domains include clausal complementation, argument and
+      event structure, passives, discourse particles, case, and diminutives.
     </p>
   </section>
 
-<section class="section">
-  <h2>Education</h2>
 
-  <div class="edu">
-    <div class="edu-item">
-      <div class="dot" aria-hidden="true"></div>
-      <div class="year-label">2026</div>
-      <h3>Université Côte d’Azur · Supervisor: Friederike Moltmann</h3>
+  <section class="section">
+    <h2>Education</h2>
 
-      <p class="meta">
-        <em>PhD in Language Sciences-Linguistics</em><br>
-        Dissertation:
-        <a href="https://cnrs.hal.science/tel-05740309/"
-           target="_blank"
-           rel="noopener noreferrer">
-          <em>Truthmaker semantics, attitudes and experiences</em>
-        </a>
-      </p>
+    <div class="edu">
+
+      <div class="edu-item">
+        <div class="dot" aria-hidden="true"></div>
+        <div class="year-label">2026</div>
+
+        <h3>
+          Université Côte d’Azur · Supervisor: Friederike Moltmann
+        </h3>
+
+        <p class="meta">
+          <em>PhD in Language Sciences-Linguistics</em><br>
+
+          Dissertation:
+          <a href="https://cnrs.hal.science/tel-05740309/"
+             target="_blank"
+             rel="noopener noreferrer">
+            <em>Truthmaker semantics, attitudes and experiences</em>
+          </a>
+        </p>
+      </div>
+
+
+      <div class="edu-item">
+        <div class="dot" aria-hidden="true"></div>
+        <div class="year-label">2020</div>
+
+        <h3>
+          Boğaziçi University · Supervisor: Balkız Öztürk
+        </h3>
+
+        <p class="meta">
+          <em>MA in Linguistics</em> · GPA: 4.00<br>
+
+          Thesis:
+          <a href="https://digitalarchive.library.bogazici.edu.tr/items/bf5a5f09-9a38-4fe1-83bd-106d0946df6f/full"
+             target="_blank"
+             rel="noopener noreferrer">
+            <em>A uniform account of personal and impersonal passives in Turkish</em>
+          </a>
+        </p>
+      </div>
+
+
+      <div class="edu-item">
+        <div class="dot" aria-hidden="true"></div>
+        <div class="year-label">2017</div>
+
+        <h3>Koç University</h3>
+
+        <p class="meta">
+          <em>BA in English Language &amp; Comparative Literature
+          (summa cum laude)</em> · GPA: 4.00
+        </p>
+      </div>
+
     </div>
+  </section>
 
-    <div class="edu-item">
-      <div class="dot" aria-hidden="true"></div>
-      <div class="year-label">2020</div>
-      <h3>Boğaziçi University · Supervisor: Balkız Öztürk</h3>
-
-      <p class="meta">
-        <em>MA in Linguistics</em> · GPA: 4.00<br>
-        Thesis:
-        <a href="https://digitalarchive.library.bogazici.edu.tr/items/bf5a5f09-9a38-4fe1-83bd-106d0946df6f/full"
-           target="_blank"
-           rel="noopener noreferrer">
-          <em>A uniform account of personal and impersonal passives in Turkish</em>
-        </a>
-      </p>
-    </div>
-
-    <div class="edu-item">
-      <div class="dot" aria-hidden="true"></div>
-      <div class="year-label">2017</div>
-      <h3>Koç University</h3>
-
-      <p class="meta">
-        <em>BA in English Language &amp; Comparative Literature (summa cum laude)</em> ·
-        GPA: 4.00
-      </p>
-    </div>
-  </div>
-</section>
 
   {% if site.footer-email-plain %}
     <div class="footer-email">
       <span>{{ site.footer-email-plain }}</span>
     </div>
   {% endif %}
+
 </div>
-
-
