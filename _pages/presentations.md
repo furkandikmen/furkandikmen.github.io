@@ -264,6 +264,20 @@ permalink: /presentations/
       </article>
 
       <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+  <div class="dot" aria-hidden="true"></div>
+
+  <h3 itemprop="name">
+    Truth and realization in propositional attitudes: French fear-clauses.
+    <span class="badge">Talk</span>
+  </h3>
+
+  <p class="meta">
+    <strong>Furkan Dikmen</strong> and Lena Baunaz.
+    Rencontres autour de la linguistique formelle (RALFe 2026), Paris, France.
+  </p>
+</article>
+
+      <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
         <div class="dot" aria-hidden="true"></div>
         <h3 itemprop="name">Finding objects of experiences <span class="badge">Poster</span></h3>
         <p class="meta">
