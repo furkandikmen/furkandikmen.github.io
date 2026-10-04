@@ -118,19 +118,53 @@ permalink: /teaching/
   <div class="teaching-card">
     <h3 class="teaching-title">Teaching Assistantships</h3>
     <p class="teaching-place">Boğaziçi University</p>
+
     <ul class="course-list">
+
       <li>
         <strong>LING101:</strong> Introduction to Language and Linguistics I
-        <span class="tag">Fall 2019</span>
-        <span class="tag">Fall 2020</span>
-        <span class="tag">Spring 2021</span>
-        <span class="tag">Fall 2021</span>
-        <span class="tag">Fall 2022</span>
-        <span class="tag">Spring 2023</span>
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
       </li>
+
       <li>
         <strong>LING102:</strong> Introduction to Language and Linguistics II
-        <span class="tag">Spring 2019</span>
-        <span class="tag">Spring 2020</span>
-        <span class="tag">Spring 2021</span>
-        <span class="tag">Spring 2022<
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
+      </li>
+
+      <li>
+        <strong>LING203:</strong> Syntax
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
+      </li>
+
+      <li>
+        <strong>LING305:</strong> Semantics
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
+      </li>
+
+      <li>
+        <strong>LING313:</strong> Phonology and Morphology of Modern Turkish
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
+      </li>
+
+      <li>
+        <strong>LING314:</strong> Syntax and Semantics of Modern Turkish
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
+      </li>
+
+      <li>
+        <strong>LING340:</strong> Advanced Syntax
+        <span class="tag">TERM</span>
+        <span class="tag">TERM</span>
+      </li>
+
+    </ul>
+  </div>
+</section>
