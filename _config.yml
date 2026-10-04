@@ -21,11 +21,11 @@ avatar: /images/PROFILEE.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: fdikmen13@ku.edu.tr
+  email: furkan.dikmen@cnrs.fr
   researchgate: Furkan-Dikmen
 
 # <-- put this at top level (not under footer-links)
-footer-email-plain: "fdikmen13@ku.edu.tr"
+footer-email-plain: "furkan.dikmen@cnrs.fr"
 
   #facebook:
   #flickr:
