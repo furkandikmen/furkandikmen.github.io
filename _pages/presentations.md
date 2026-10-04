@@ -186,16 +186,29 @@ permalink: /presentations/
     <div class="year-group">
       <div class="year">2026</div>
 
-       <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
-        <div class="dot" aria-hidden="true"></div>
-        <h3 itemprop="name">Toward a typology of implicit arguments: Evidence from the Turkish passive”. <span class="badge">Talk</span></h3> <p class="meta"> Nikos Angelopoulos, Ömer Demirok and <strong> Furkan Dikmen</strong>. Syntax and Semantics of
-Implicit Arguments (ImpArg), University of Graz, Austria. 
-        </p>
-        <p class="links">
-          <a href="https://sites.google.com/view/imparg-graz/program?authuser=0"_blank" rel="noopener noreferrer">Program</a>
-          <a href="https://drive.google.com/file/d/1wJUmirQhk2XdpIGRp5ROk4INtmntYsGA/view" target="_blank" rel="noopener noreferrer">PDF</a>
-        </p>
-      </article>
+     <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+  <div class="dot" aria-hidden="true"></div>
+
+  <h3 itemprop="name">
+    Toward a typology of implicit arguments: Evidence from the Turkish passive.
+    <span class="badge">Talk</span>
+  </h3>
+
+  <p class="meta">
+    Nikos Angelopoulos, Ömer Demirok and <strong>Furkan Dikmen</strong>.
+    Syntax and Semantics of Implicit Arguments (ImpArg), University of Graz, Austria.
+  </p>
+
+  <p class="links">
+    <a href="https://sites.google.com/view/imparg-graz/program?authuser=0"
+       target="_blank"
+       rel="noopener noreferrer">Program</a>
+
+    <a href="https://drive.google.com/file/d/1wJUmirQhk2XdpIGRp5ROk4INtmntYsGA/view"
+       target="_blank"
+       rel="noopener noreferrer">PDF</a>
+  </p>
+</article>
 
       <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
         <div class="dot" aria-hidden="true"></div>
