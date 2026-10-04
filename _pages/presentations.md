@@ -223,13 +223,9 @@ permalink: /presentations/
   </p>
 
   <p class="links">
-    <a href="PROGRAM-LINK-HERE"
+    <a href="https://sites.google.com/view/ralfe2026/programme?authuser=0"
        target="_blank"
        rel="noopener noreferrer">Program</a>
-
-    <a href="PDF-LINK-HERE"
-       target="_blank"
-       rel="noopener noreferrer">PDF</a>
   </p>
 </article>
 
