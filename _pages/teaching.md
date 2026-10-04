@@ -176,7 +176,7 @@ permalink: /teaching/
         <strong>LING314:</strong> Syntax and Semantics of Modern Turkish
         <span class="tag">Spring 2020</span>
         <span class="tag">Spring 2022</span>
-        <span class="tag">Spring 2023 (2 sections)</span>
+        <span class="tag">Spring 2023 </span>
       </li>
 
       <li>
