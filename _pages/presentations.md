@@ -187,6 +187,22 @@ permalink: /presentations/
   <div class="year">2026</div>
 
   <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
+  <div class="dot" aria-hidden="true"></div>
+
+  <h3 itemprop="name">
+    Turkish passives have implicit arguments
+    <span class="badge">Talk</span>
+  </h3>
+
+  <p class="meta">
+    <strong>Furkan Dikmen</strong>, Ömer Demirok and Nikos Angelopoulos.
+    Fifty-seventh North East Linguistics Society (NELS57),
+    City University of New York, New York, USA.
+    To be presented.
+  </p>
+</article>
+
+  <article class="talk" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="dot" aria-hidden="true"></div>
 
     <h3 itemprop="name">
