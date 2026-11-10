@@ -362,7 +362,7 @@ permalink: /publications/
       <article class="pub">
       <div class="dot" aria-hidden="true"></div>
       <h3>What you see is not what you hear</h3>
-      <p class="meta"><strong>Furkan Dikmen</strong> and Lena Baunaz, squib under review in Glossa</p>
+      <p class="meta"><strong>Furkan Dikmen</strong> and Lena Baunaz, squib conditionally accepted in Glossa</p>
     </article>
 
     <article class="pub">
